@@ -1,0 +1,4314 @@
+<?xml version="1.0" ?>
+<routes>
+    <vehicle id="1070" depart="0.3618694076356066">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="278" depart="0.8973116792404534">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="789" depart="3.5477190451510543">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="889" depart="5.302031441415833">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1405" depart="5.525591063375468">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="718" depart="6.9729063318383355">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1126" depart="7.043950849453751">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1129" depart="8.244289648338343">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="462" depart="8.45985859630849">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="663" depart="9.296109511722438">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1429" depart="9.858709678493227">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1204" depart="10.27845651390924">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="708" depart="10.419865762520075">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="988" depart="11.136060094393718">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1399" depart="11.953937001177195">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="0" depart="13.582951914389408">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1091" depart="15.145212189648039">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="382" depart="15.216110414950968">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="76" depart="15.25138812342497">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1191" depart="16.038395794216175">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="434" depart="16.13766063696076">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="770" depart="16.344543673239563">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1188" depart="16.404939204318403">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="131" depart="16.65102650089201">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1238" depart="16.783250775790904">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="615" depart="19.029610697093634">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="962" depart="19.079932916071908">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="877" depart="20.389956586034153">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="826" depart="20.424412890385767">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="538" depart="22.845209357430175">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="387" depart="23.03728528915594">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1309" depart="25.2698334047049">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="13" depart="25.733523187454143">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1292" depart="25.816987109179234">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="956" depart="25.97719660765574">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="846" depart="26.708992655688935">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="271" depart="27.332452470041012">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1152" depart="27.34627655876809">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1125" depart="28.75539451775666">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="84" depart="29.332822806051652">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="508" depart="34.662964009605886">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1063" depart="34.85326797408484">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="161" depart="36.167077749254986">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="179" depart="36.407432194705436">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="253" depart="36.43452314663487">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="238" depart="37.61651620296236">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="160" depart="38.08711927814778">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="880" depart="39.34405352696735">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1293" depart="39.40285687133138">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="730" depart="39.42286568527032">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1306" depart="40.03498693550745">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="269" depart="40.257615177162975">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="495" depart="40.62683425562297">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="861" depart="40.68936068259343">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="678" depart="41.10727219456345">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="472" depart="41.55580091181265">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="578" depart="41.97871093286687">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="468" depart="42.01733191747026">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="987" depart="42.725717143030195">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="167" depart="43.59075821712843">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="759" depart="43.73655035304225">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="978" depart="43.885627866858236">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="595" depart="44.43496916400702">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="503" depart="45.40628011909131">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="665" depart="45.553149885100396">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="68" depart="47.16833225999662">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="547" depart="47.772522601614575">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="960" depart="48.19553254779307">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="603" depart="48.27923660182487">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="700" depart="48.41028159143901">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="27" depart="49.97958588116036">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="874" depart="50.1043780443019">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1313" depart="50.16842924371723">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="257" depart="50.309798701468125">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1184" depart="50.557292311757315">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1403" depart="51.9545811188763">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1240" depart="53.46700819898054">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1304" depart="54.339961591056365">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1020" depart="54.41122674962018">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="412" depart="54.68635198097749">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="912" depart="55.033847092773144">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1198" depart="55.63060389129304">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="597" depart="56.510208468668054">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1303" depart="57.41777341591436">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="37" depart="58.147799255870545">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="172" depart="58.426328255836715">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="554" depart="58.87250944153488">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="947" depart="59.71341592192792">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="242" depart="60.491729315000576">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1155" depart="60.96194636987151">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="895" depart="61.217710158752105">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="552" depart="61.74591358223436">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="374" depart="61.805340559497715">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="11" depart="63.33140515556879">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="862" depart="64.73665282064356">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="408" depart="65.06332891170008">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1335" depart="65.1256902840337">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="465" depart="66.40690240345704">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="697" depart="68.22819381356892">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="557" depart="68.27882513027394">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1268" depart="69.40156343022264">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="990" depart="70.02932425617547">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="302" depart="70.58284407365622">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="801" depart="71.12036252428322">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="376" depart="72.35394135719086">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="471" depart="72.74562704006814">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="61" depart="72.83114533994195">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1326" depart="73.6563635454468">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="727" depart="73.88465840203595">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1244" depart="74.91378961063744">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="723" depart="75.64946831612596">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="338" depart="76.19746638379321">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="799" depart="76.39435409429085">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="64" depart="80.6504257966063">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="136" depart="81.51293093535573">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="48" depart="81.90571223967258">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="152" depart="82.29692626786478">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="240" depart="83.50833638575006">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="740" depart="86.0801992433552">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="289" depart="89.26444902123166">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1407" depart="89.84443903664796">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="598" depart="90.42915578476673">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="430" depart="91.3544070184471">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="41" depart="92.76733323864073">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="162" depart="92.81467212441308">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="840" depart="94.94638310651959">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="871" depart="95.09180487496371">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="869" depart="95.29486084029226">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="792" depart="95.66537685323017">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="738" depart="95.67786181664162">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1369" depart="95.70013195422477">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="802" depart="95.79578730025584">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1275" depart="96.71517395894669">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1" depart="97.73645899260497">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="460" depart="98.88032211673625">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="69" depart="99.00759948870375">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="328" depart="99.24568041298154">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1130" depart="99.8390209138853">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="449" depart="99.9305457978128">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="59" depart="100.14907474691293">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="375" depart="100.20181783803395">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="607" depart="100.63749528873633">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="224" depart="101.28099719289696">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="570" depart="101.29616424711551">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1291" depart="102.73126262374521">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1146" depart="102.89552563095306">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="445" depart="103.52592560438212">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="528" depart="105.53690342871758">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1415" depart="107.47268444882319">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="951" depart="107.64524871915194">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="823" depart="109.89598459917704">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="44" depart="111.10684500699419">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="228" depart="111.18614856321895">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1162" depart="111.26305499752387">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1283" depart="111.31289898744323">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="918" depart="111.48509797607487">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="171" depart="111.89523248398426">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="93" depart="112.74090096410127">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="832" depart="112.94085033607493">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1157" depart="113.29291506122763">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1286" depart="114.8603964195919">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="12" depart="117.35331472781641">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="164" depart="117.54933278541935">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="395" depart="118.17912963600097">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1426" depart="118.24935409141169">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="337" depart="118.75803773468773">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="260" depart="119.55749991189191">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="292" depart="119.68615028608387">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="564" depart="119.97385166020824">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="388" depart="121.44821795846939">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="527" depart="122.51869225367872">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1121" depart="122.54551886246612">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="391" depart="123.18582640453025">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="641" depart="124.49417905181737">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1330" depart="124.63378649226885">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="364" depart="124.85248178869668">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="734" depart="124.91316841098387">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1223" depart="127.22310481487997">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="450" depart="127.3734308781721">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1114" depart="128.36038954470942">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="246" depart="128.40165089788047">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="42" depart="128.4508259533895">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1203" depart="128.66609773381188">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="56" depart="130.9411753051031">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1090" depart="132.09159293784023">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="677" depart="133.33319245266773">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="284" depart="135.1418324647715">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="485" depart="136.5769254030894">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1101" depart="137.03434008352377">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="752" depart="137.55202801210743">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="209" depart="137.5685834789092">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="764" depart="138.21531013016963">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="614" depart="141.5673101730397">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1394" depart="141.64367758324525">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="85" depart="143.2829053016762">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1352" depart="143.34032557823585">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="274" depart="145.12898335785152">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1046" depart="145.34796809009288">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="301" depart="145.44314501627943">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="882" depart="146.43873612028668">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1296" depart="146.59396145659832">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="594" depart="146.70085644539088">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="507" depart="147.18104457560145">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="121" depart="148.66685130788792">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="629" depart="149.1169472554067">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="690" depart="149.9793449505241">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1168" depart="151.17125486499083">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="892" depart="151.92010693368775">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1408" depart="153.44741722254795">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1363" depart="153.80317165633173">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="75" depart="154.9384631049955">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1215" depart="155.07017140314994">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="205" depart="155.29404748094777">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="195" depart="156.75988765086302">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="563" depart="156.76468836239056">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="65" depart="157.20298608061535">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1089" depart="157.80467284987677">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="781" depart="158.18022251887186">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="396" depart="158.436430762652">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1115" depart="158.91066706287415">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="474" depart="159.21878885404317">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="470" depart="159.99810033515894">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="573" depart="161.13728139273775">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="630" depart="161.1460870532807">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="550" depart="161.38237284072844">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="575" depart="162.81981298887072">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="143" depart="162.99838331355187">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1409" depart="164.90247757631494">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="933" depart="165.08615432244343">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="602" depart="165.48904435225165">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1410" depart="165.7288900229027">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="441" depart="165.78721254140595">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="617" depart="165.87360099450288">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="714" depart="165.89681164689728">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="464" depart="166.1964241899181">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="341" depart="166.86549158614307">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="452" depart="167.857224063501">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="744" depart="167.86410440327327">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="371" depart="168.43942997489924">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="981" depart="168.84837829517573">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="80" depart="168.89875927288978">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="626" depart="169.73854477350991">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="919" depart="169.771278798298">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="5" depart="170.0158105295837">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="178" depart="170.73569756247565">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="934" depart="171.47431463382733">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1354" depart="173.33966180395498">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="774" depart="174.11781728526665">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="506" depart="174.64322032250513">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="244" depart="175.24089566663147">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="385" depart="176.06253220415292">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1143" depart="176.42356482283427">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="791" depart="178.1537345039771">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1374" depart="178.5814045328149">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1031" depart="179.10192676523894">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="661" depart="179.21074514978997">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="154" depart="180.1793117824928">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="192" depart="181.32254101854795">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="17" depart="183.00369168798613">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="979" depart="183.38883731387813">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="611" depart="183.6696195058789">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1132" depart="183.79908812108613">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="664" depart="183.97010696537075">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="790" depart="184.07141526390902">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="443" depart="184.19329389245">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1267" depart="185.00032717831527">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="751" depart="185.96842437872786">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1137" depart="186.4375200398213">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1365" depart="186.4453399263325">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="637" depart="186.81294013226602">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1000" depart="187.78784274625303">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="631" depart="188.00946576730325">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1066" depart="188.45199406865464">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="183" depart="188.822903146031">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1144" depart="189.2312889555451">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="943" depart="190.50094035655184">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1210" depart="190.60443111240588">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="856" depart="191.48134510074476">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="675" depart="192.455896286152">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1250" depart="192.61354022017142">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1083" depart="193.26891057258865">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1079" depart="194.19385344923202">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="829" depart="194.8991501651076">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="10" depart="195.0216423934058">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="916" depart="195.75588430702174">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="986" depart="195.79681669255888">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="490" depart="195.93111602378744">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="319" depart="196.4890728627684">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="340" depart="196.6427531029249">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="980" depart="197.2982533337382">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="710" depart="199.05206035386448">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1361" depart="199.05399404615366">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="108" depart="200.43048168775246">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1277" depart="200.58589682332283">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="426" depart="201.78533650115017">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="232" depart="203.21048896487636">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="732" depart="205.91526294527262">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="182" depart="207.30534587923967">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="489" depart="207.96260980564884">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="676" depart="210.00067009212808">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="118" depart="210.0723279964295">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="288" depart="211.03654218986557">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="196" depart="211.36168472905425">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="438" depart="213.00727369232453">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1166" depart="213.92503066809266">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="432" depart="214.0104832396783">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="138" depart="214.3685534085057">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="702" depart="214.47620404921685">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1420" depart="214.89402849727878">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1350" depart="214.9738684497985">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1355" depart="215.2556265881025">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="673" depart="215.30781174001424">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="992" depart="215.72668325812938">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="839" depart="215.91610801222026">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1051" depart="216.07115869862193">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1113" depart="216.1606765875833">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="653" depart="216.50078140352912">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1368" depart="217.51425093100008">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="982" depart="218.34587487329128">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1260" depart="220.2331076408506">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1004" depart="220.46197318824912">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="335" depart="220.55592865902162">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="680" depart="223.72900492839355">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1153" depart="224.07321021092108">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="905" depart="224.11731435599214">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1022" depart="225.7945109638796">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="572" depart="226.75706399265738">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1050" depart="226.83170434749056">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="214" depart="226.83954707200226">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="279" depart="227.40151492665962">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1140" depart="227.68681646539625">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1167" depart="228.6605631373989">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1430" depart="229.43386981365498">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="325" depart="230.3213079888279">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1342" depart="230.6143413947338">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1280" depart="231.60910529221468">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="562" depart="233.44321718210725">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="681" depart="233.7063963660123">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1009" depart="235.90439736638925">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="402" depart="237.36841468412928">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1185" depart="240.4673155678816">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="817" depart="240.71491916772501">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="258" depart="241.25602564609605">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="356" depart="241.3298831508981">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="894" depart="242.44624364605062">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="453" depart="242.90264036383013">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="165" depart="243.675587551198">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1077" depart="244.6406410841676">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1164" depart="246.39039368684323">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="893" depart="248.19655340512736">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="103" depart="248.6895445233055">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="129" depart="249.4421852273545">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="15" depart="249.895099402335">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="79" depart="250.3874061533925">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="666" depart="251.10239826433667">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="47" depart="251.1885664142688">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="845" depart="252.76058068671526">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1237" depart="253.26472133673482">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="762" depart="253.27811283318223">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="407" depart="254.18411891684966">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="568" depart="254.31556224881302">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1110" depart="254.41361726886313">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1364" depart="256.4406288445136">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="323" depart="256.5201025875236">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1416" depart="256.93634921563114">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1366" depart="257.2941563763802">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="359" depart="257.6253422236891">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="758" depart="258.8484180483033">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1195" depart="258.93255143716453">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="333" depart="259.8105444449056">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="813" depart="260.03131697086866">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="535" depart="260.0409659299603">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="887" depart="260.05315324095267">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="707" depart="260.30151307554706">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="290" depart="260.3773175538019">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1279" depart="261.4240454024499">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="984" depart="261.4886163294733">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1133" depart="261.69251796971014">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="786" depart="261.8856607716782">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1294" depart="261.9375618827392">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1358" depart="263.0292654490247">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="657" depart="263.43635884311766">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1067" depart="265.5406884006033">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="415" depart="265.707356330131">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1032" depart="265.8204520605009">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="842" depart="267.1646398561245">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="245" depart="267.6850170933751">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="566" depart="268.94486587460295">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="109" depart="269.2149909315294">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="296" depart="270.5782932092785">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="491" depart="272.36054571160906">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="654" depart="272.3910514980399">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="481" depart="273.8633089927823">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="401" depart="274.1231788269645">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="369" depart="274.58103285202384">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1059" depart="275.73266606247773">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="71" depart="276.9502811174903">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="22" depart="277.46055010863194">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="498" depart="277.9132354428201">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="729" depart="278.624786689217">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="567" depart="279.4631876077801">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="54" depart="280.2526223413062">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="945" depart="280.5462618294635">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="117" depart="281.37106617667075">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1356" depart="281.4591943743594">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="930" depart="281.66956172864553">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="569" depart="281.74860895384245">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="576" depart="281.8103689051482">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1064" depart="281.87689390033955">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1006" depart="282.82730586737347">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="124" depart="283.7342856104661">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="875" depart="283.8982808054931">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="123" depart="283.9543776485145">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1011" depart="284.2041235874313">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="83" depart="284.3929534935913">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="502" depart="284.4538681571651">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="668" depart="284.6240793743924">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1095" depart="284.93408037953935">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="377" depart="285.9426676746404">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1194" depart="286.2715485465529">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="599" depart="287.422999114775">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="689" depart="289.3686956896779">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="30" depart="289.4350222548566">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="712" depart="289.67519771288164">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1183" depart="289.8151372051647">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="788" depart="290.2229397341941">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="983" depart="290.89285653249095">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="389" depart="291.04660023128446">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="950" depart="294.4577328028081">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="225" depart="294.58776700604307">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1395" depart="294.9523256427208">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="588" depart="295.71882879395895">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="110" depart="296.4172283022636">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="267" depart="297.10550743205533">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="477" depart="298.71934499236363">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1148" depart="298.79657594588525">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="248" depart="298.8046017419865">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="713" depart="299.6087696735703">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="807" depart="299.81354497642707">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="484" depart="300.3758559035149">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="942" depart="301.16860534009936">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1068" depart="301.36173828791004">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="583" depart="302.674435452556">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1317" depart="303.1114942512927">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1248" depart="303.30529552568674">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1159" depart="304.5332534625199">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1337" depart="304.5625228914164">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1228" depart="306.0933401419532">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="221" depart="307.9463647746562">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1060" depart="309.0531244806901">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="181" depart="312.4183246245108">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="168" depart="313.12688431921464">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1087" depart="314.0885367027406">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1038" depart="315.33888433082956">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1398" depart="316.3481144093264">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="282" depart="316.66882175496636">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1163" depart="316.6877760008708">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="95" depart="316.9633076358953">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="252" depart="317.2020124530668">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="542" depart="319.1678494640694">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1284" depart="320.55310203351485">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="350" depart="321.12194270308936">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="97" depart="321.2118515696528">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1085" depart="323.06888113524747">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="35" depart="323.5361238404556">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="743" depart="324.20551684709653">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1247" depart="325.0533896537853">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1169" depart="326.09550966178233">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="21" depart="326.5269668968943">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1255" depart="327.23860870874734">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="67" depart="328.21977193374374">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1278" depart="330.93769689297136">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1262" depart="331.0382716150715">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1061" depart="331.4098292823623">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="640" depart="331.6375542022562">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1387" depart="332.32931144404057">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="106" depart="332.96690509240847">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1039" depart="333.2403915705582">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="107" depart="334.2155297982579">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="211" depart="334.2384461603952">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="859" depart="335.25096556070264">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="731" depart="338.661302916357">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="867" depart="338.75940327844387">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="383" depart="342.1362242706345">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="941" depart="343.83830659576074">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1181" depart="343.9897944253036">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="235" depart="344.14524113461744">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1224" depart="344.5722556008526">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="127" depart="344.9059471533515">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1428" depart="345.9015554348106">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1316" depart="346.1719791458029">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1081" depart="346.3036434157409">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="533" depart="346.54814913251255">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="53" depart="347.09393542559366">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1207" depart="347.1948178266062">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="440" depart="347.7990539241431">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1242" depart="348.03389358850956">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="843" depart="349.33866113297216">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="239" depart="349.57239451965813">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="636" depart="350.92604674217887">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="703" depart="352.3428810873994">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="651" depart="352.5115194554759">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="4" depart="353.24133269667146">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1299" depart="353.9555811367608">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="331" depart="354.43240048768064">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1124" depart="355.7878023348346">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="909" depart="356.0863786020534">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="320" depart="356.1875919180626">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="514" depart="357.2286778024365">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="357" depart="358.5570755407468">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1030" depart="358.7026658587451">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="735" depart="360.85737180039644">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="532" depart="361.3691740524062">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="444" depart="363.20377882621756">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="397" depart="363.32130555423305">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1222" depart="363.5081168266864">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="454" depart="364.9502904854952">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1045" depart="365.2937316397529">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="204" depart="365.88724703566766">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="831" depart="366.16121262947553">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="900" depart="366.41349423165116">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="957" depart="366.4817847347611">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="656" depart="366.6408591735074">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="368" depart="367.22109503947166">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="266" depart="368.0214159205757">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="98" depart="368.20566463373115">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="928" depart="371.15033563086183">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1117" depart="371.5337419607706">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="313" depart="372.50330784077414">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1015" depart="372.8520340760764">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="297" depart="373.7541448828062">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1002" depart="373.88730251587197">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="455" depart="374.5951279166245">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="655" depart="374.9347322258215">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1118" depart="376.5259634172709">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="392" depart="376.9382786211968">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1076" depart="378.1830958535819">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1084" depart="379.26537673015815">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="932" depart="379.84023200246776">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="953" depart="382.50928761941003">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="199" depart="382.7459065194757">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="146" depart="385.81714430759575">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="811" depart="387.1667728454836">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="51" depart="388.16458403586995">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="753" depart="388.5179768150346">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1231" depart="388.6387106719014">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="645" depart="388.9331754147897">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="709" depart="389.148081616195">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1179" depart="392.4196577744379">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="153" depart="393.98299589832664">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="174" depart="395.1532601300877">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="937" depart="397.734369863992">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="241" depart="399.19796603609944">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1178" depart="399.25366470706393">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1098" depart="400.0969006351776">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="806" depart="402.0854904192869">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="478" depart="402.2773035801952">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1141" depart="402.50239690249435">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="324" depart="402.51863172589765">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="191" depart="404.5479301316898">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="229" depart="405.066055378453">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="779" depart="406.03824101856225">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="416" depart="406.6044623341255">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1392" depart="408.89985172423104">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1019" depart="410.24657622682116">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="748" depart="410.9708329623587">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="837" depart="411.106170537851">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1021" depart="412.83208639210955">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="736" depart="412.97595157681445">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="808" depart="413.235842692689">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1297" depart="414.65359479458874">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="772" depart="415.0755848572064">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="584" depart="415.91487692325313">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="998" depart="416.5163846854867">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="186" depart="417.73804841729077">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="605" depart="417.8129459627913">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="78" depart="418.3686662942613">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="926" depart="419.0063755564418">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="706" depart="419.2457217626536">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1120" depart="420.50369945723276">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="586" depart="420.81558623375304">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="518" depart="420.841504295417">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1217" depart="421.15260389272834">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="294" depart="421.15513054638996">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="111" depart="421.27598314985283">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="571" depart="421.3176093948254">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="539" depart="421.39092834136204">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="989" depart="421.9828165906387">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1347" depart="422.81520201749913">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="428" depart="423.45432533414805">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="512" depart="424.0173538548618">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1378" depart="424.318957072381">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="521" depart="424.5466609032035">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="134" depart="425.3634046951428">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="77" depart="425.49472645709943">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="579" depart="425.8684627747349">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="100" depart="426.83046247812007">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="944" depart="427.09034519757927">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1425" depart="427.3244503571588">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="40" depart="429.5189380253777">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1225" depart="430.340079125088">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="39" depart="431.92473403053157">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="814" depart="431.95809897066107">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="824" depart="433.07358803573914">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="509" depart="433.6967197073567">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1256" depart="435.6073179875382">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="855" depart="435.87258459184096">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="873" depart="435.9176823306604">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="616" depart="436.27638520895283">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="885" depart="436.32298184200926">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="775" depart="436.3783858321908">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="907" depart="437.5089932776468">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="830" depart="437.6761018408478">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="203" depart="437.8297241227933">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="173" depart="438.04904024546397">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="114" depart="438.75763198461436">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="976" depart="439.74418108395963">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="380" depart="439.98906600219965">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="612" depart="440.1915594850543">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="137" depart="440.3082890683799">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="157" depart="441.46811318485726">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1112" depart="441.9907021690479">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="309" depart="442.228851386121">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="711" depart="442.70124130458765">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1171" depart="443.3511402461633">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="561" depart="444.69412003643004">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="487" depart="445.22239503235164">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="126" depart="445.42858478728186">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="105" depart="445.9308255357305">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="821" depart="446.0534555005059">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="948" depart="447.14004816822086">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="903" depart="447.42121663713397">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="256" depart="448.03330461284816">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="326" depart="448.21673054645083">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="372" depart="448.2779946354678">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="459" depart="448.39534023408964">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="726" depart="449.3606093434077">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1312" depart="449.6532330980423">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="604" depart="451.6054323372376">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="348" depart="452.19172166316133">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="291" depart="453.5263640783892">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="409" depart="453.5955275731702">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="695" depart="458.3547138510279">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="899" depart="458.4008895445332">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1254" depart="459.123963680116">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="838" depart="459.8716618725822">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1230" depart="461.39609584992934">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1134" depart="461.8088398012883">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="938" depart="462.3375669318113">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="999" depart="463.4235666190215">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="148" depart="464.61110534569883">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="497" depart="464.9767120786614">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="750" depart="465.1363051489572">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="915" depart="465.80197282636493">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="699" depart="466.1263119123531">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="208" depart="466.5432139513103">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="530" depart="467.18787080446634">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="322" depart="467.65254440560466">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="749" depart="467.87130769370214">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="263" depart="468.754019296226">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="96" depart="469.0796368350892">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="336" depart="469.39346983879506">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1265" depart="470.75642942123085">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="608" depart="471.3907737551497">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="132" depart="472.39010036104713">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="746" depart="472.8155170775782">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1190" depart="472.84284584031246">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="940" depart="473.5251407407117">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="558" depart="474.4037792879302">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="847" depart="474.48062715370764">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1271" depart="474.91011547039363">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1034" depart="475.2716686281668">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1104" depart="475.5008031836671">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1158" depart="478.3782480720726">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="308" depart="479.4275298791375">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1080" depart="479.9033297901888">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="390" depart="480.28840555424324">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="886" depart="480.80609609603897">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="972" depart="481.31673985453114">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="754" depart="481.54482885567006">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="447" depart="481.5542377986356">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1108" depart="481.7602087132457">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1328" depart="482.93895885800976">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1382" depart="484.7898857958457">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1310" depart="485.0522759955651">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="50" depart="487.01162536203634">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="334" depart="487.39199160981593">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1017" depart="487.9162489445614">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="312" depart="488.0818253757753">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="624" depart="488.91194856889484">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="914" depart="489.5444043242293">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1389" depart="490.05205807358743">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="622" depart="490.19475684858895">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="63" depart="490.43478619435854">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="57" depart="490.6331580753794">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1189" depart="490.72736957435524">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="967" depart="492.55129983730126">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="872" depart="493.01063422592983">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1359" depart="493.56116908803017">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="295" depart="494.0370485544401">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="45" depart="494.3278809955097">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="254" depart="495.0064505967242">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="446" depart="495.17288165854666">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="523" depart="496.47748893004274">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1406" depart="496.5873804774764">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1199" depart="497.55810335871666">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="272" depart="498.0687161710651">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="89" depart="498.636053385116">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1381" depart="498.87135578074316">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="9" depart="499.11284959272115">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="469" depart="500.27704057295233">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1136" depart="500.65757753743435">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1055" depart="500.86840000164545">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="259" depart="501.8688816938264">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="935" depart="503.84115251528283">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="551" depart="504.2431730215579">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1357" depart="504.61255868877765">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="590" depart="505.91567778535085">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1003" depart="505.92830392081066">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1056" depart="506.35198185335986">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="303" depart="506.8277435360916">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="52" depart="506.8527943862968">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="249" depart="507.3906344956368">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="863" depart="507.40026891600763">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="782" depart="508.2930533118749">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="437" depart="508.7964773564102">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="286" depart="510.2646954514722">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="556" depart="510.3390004511272">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="625" depart="511.7176115342773">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="639" depart="512.5505570082146">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1400" depart="513.084445558438">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="540" depart="513.5189637275804">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1192" depart="513.6550800433047">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="648" depart="514.5361957134481">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="120" depart="515.1892324377528">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="14" depart="515.368807862395">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="482" depart="516.0699347602642">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1096" depart="517.3290243683106">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="125" depart="517.3972230118839">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="793" depart="517.6676311101648">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="86" depart="519.0216421066755">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="66" depart="519.3248030706214">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="233" depart="519.6126496746024">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1107" depart="520.034712970977">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="601" depart="520.5793742829867">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="787" depart="521.1608335301358">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1272" depart="521.6826003225987">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="920" depart="522.2489285088666">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1241" depart="524.9695879524975">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1424" depart="525.0406698554206">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1052" depart="525.3066871898352">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1165" depart="525.4780352251889">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1109" depart="526.6098409300165">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="692" depart="526.9593531086686">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1377" depart="527.4768218396921">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1170" depart="527.678880182744">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="16" depart="527.9569646458879">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="347" depart="528.0593638208417">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1386" depart="528.2641423171036">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="701" depart="529.5118434420323">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="835" depart="529.8969222263161">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="939" depart="531.1193544248872">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="466" depart="535.1428070128845">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1094" depart="535.3812204646132">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="652" depart="535.4681245001484">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="582" depart="535.5797664828187">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="314" depart="536.1027824979665">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="773" depart="536.1807155181043">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="691" depart="536.9490381317619">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="716" depart="536.959360040148">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1220" depart="537.6843854804315">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="220" depart="538.7550326676162">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="854" depart="539.0909530407405">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="667" depart="539.3471522242036">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="72" depart="540.218746210989">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="973" depart="540.7871347257075">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1174" depart="540.9916256352964">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1411" depart="541.5460964958411">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="38" depart="542.4646811262353">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1099" depart="544.6438469395877">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1422" depart="544.9240596249546">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1218" depart="546.6117016580846">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1127" depart="546.7786487681765">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1338" depart="547.959065817005">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="913" depart="549.0395595455083">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1213" depart="549.6682803084134">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="422" depart="550.1979276621754">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="757" depart="551.2162818843897">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1219" depart="551.363320050729">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="739" depart="551.9146536383903">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="904" depart="552.169387440773">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1214" depart="552.4411102465265">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="250" depart="553.212206967035">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1290" depart="553.3149672030778">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="555" depart="553.7108722794649">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="888" depart="554.8511685999753">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="433" depart="556.459257986148">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="418" depart="557.0531519063536">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="974" depart="557.7563884523096">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1088" depart="559.0037912101792">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1331" depart="560.2753230309963">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="574" depart="560.887513497972">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="908" depart="561.8448544515187">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="534" depart="562.0270837668545">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1027" depart="563.0186280144965">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="565" depart="564.4133832452145">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="384" depart="564.9706539050576">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="361" depart="565.1199757214189">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1182" depart="565.7551219018159">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="765" depart="565.8805512050718">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1092" depart="566.0003363549982">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="810" depart="566.2954820340859">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="283" depart="567.7719206250389">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="119" depart="569.3810996184874">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="879" depart="569.7794583894877">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1175" depart="569.7946923375146">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="609" depart="569.8477524298845">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="696" depart="570.1341949364971">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="217" depart="571.605582995271">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="997" depart="571.9285448338883">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="151" depart="572.6902046171608">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="488" depart="572.7451158885345">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1106" depart="575.5188267704522">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1288" depart="575.8875389031896">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1298" depart="576.3382122231146">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1161" depart="577.3102635536264">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="634" depart="578.5398936116982">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="559" depart="579.260262382218">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="771" depart="580.1952411547469">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1434" depart="580.5794170565564">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1139" depart="580.6219524634441">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="580" depart="580.674373903581">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="896" depart="581.5599886348466">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1414" depart="581.6920114235999">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="210" depart="581.8845189501251">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="816" depart="582.376711032579">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="850" depart="583.2318657212264">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1205" depart="583.3509499138692">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="993" depart="583.7929497438932">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="189" depart="583.8210375230623">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="190" depart="586.0703731373372">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1048" depart="587.0849274842251">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1333" depart="587.5202411269455">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="486" depart="587.9247701437403">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="231" depart="587.9466331135627">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="628" depart="588.1262993270766">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="25" depart="588.6348765407588">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="273" depart="588.7883339743813">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1282" depart="589.1245222481108">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="644" depart="589.2501787658904">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="180" depart="589.3133686215004">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="140" depart="589.8218207786634">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="34" depart="589.9641383564792">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1040" depart="590.7725526832838">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1236" depart="590.9150298191014">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="141" depart="592.1496034137167">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="796" depart="592.2284599552296">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="133" depart="592.9427790756657">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1008" depart="593.5392236396822">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1432" depart="594.4083331696555">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1421" depart="594.4205406796489">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1012" depart="594.4281939975662">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="436" depart="595.1876910902195">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="849" depart="596.6218478535526">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="963" depart="598.2237902755656">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="370" depart="598.2247042050126">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="315" depart="598.7052530815205">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="46" depart="598.7453849985125">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1151" depart="599.6481704342547">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1193" depart="600.2597051477385">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1138" depart="600.872874283227">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1071" depart="601.249249499206">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="116" depart="602.4003750728618">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1033" depart="603.673236758827">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="281" depart="604.708549781998">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="55" depart="606.9500869821115">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1251" depart="607.2285740654385">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1266" depart="607.2763959585407">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="363" depart="607.5399641103163">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="868" depart="610.029945075137">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="427" depart="611.2339256789701">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1329" depart="612.4749644883124">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="219" depart="612.7064280722077">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="745" depart="614.1260827209554">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1276" depart="615.163408922942">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="704" depart="615.465820435189">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="307" depart="616.7797774827015">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1196" depart="618.1398861498513">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1427" depart="618.1496899192556">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1029" depart="618.4844335971487">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1270" depart="618.9180938999889">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="70" depart="619.9140823484918">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="218" depart="621.295275912526">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="62" depart="622.8401917718778">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="198" depart="623.4315527529473">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="949" depart="624.0857034568942">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="737" depart="624.1915329521983">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="342" depart="624.6024462464578">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="853" depart="624.7082460467743">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="26" depart="625.8809111133921">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="339" depart="625.9428109788895">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="329" depart="626.6999271255027">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1047" depart="627.3349015212">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1206" depart="627.9394325740819">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1023" depart="628.262273317619">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1423" depart="628.8857759631856">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="822" depart="629.6091760671741">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="265" depart="630.1296231099083">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="101" depart="630.2285326695593">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1135" depart="632.9230622134339">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1122" depart="634.2061848956881">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1327" depart="635.1795718818568">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="429" depart="636.4003096440348">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="685" depart="637.5229372311951">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="7" depart="638.3937459132703">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1258" depart="639.1068948221348">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="439" depart="639.253288538086">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1187" depart="639.891640556258">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="128" depart="640.2002289665517">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="784" depart="640.9590237729259">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="261" depart="640.9943177060435">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="501" depart="641.0095473443658">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1345" depart="641.3512059041316">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="687" depart="641.9098031127712">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="435" depart="642.300124620614">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="3" depart="642.6856007130904">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="163" depart="643.3469304999079">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1380" depart="644.4913558373528">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="815" depart="644.6774185075183">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="145" depart="645.3167945156767">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1325" depart="645.4751771250064">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1379" depart="645.6003579540123">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="635" depart="645.7817618846047">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1043" depart="646.6324261170475">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="23" depart="646.8344457523689">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="170" depart="647.0980367209012">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1376" depart="647.7053861963534">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1173" depart="647.8939546444785">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="531" depart="649.0536516684024">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="365" depart="649.1195572472991">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="115" depart="649.7565472466998">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="158" depart="650.5467983647909">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1433" depart="651.9542906870387">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="176" depart="652.6506478679604">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="24" depart="652.9435198957892">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="958" depart="654.4915794015982">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="946" depart="654.5955577674331">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1346" depart="655.7634725927945">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1053" depart="657.8885351275427">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="379" depart="660.495074415589">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="327" depart="662.1888471796341">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="929" depart="662.7426217342122">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="147" depart="664.2520511882575">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="876" depart="667.2231886693437">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="358" depart="667.7366651267835">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="60" depart="669.9196138572959">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1418" depart="671.8701905113669">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1417" depart="672.8127185011409">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="91" depart="674.2520394337882">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1384" depart="674.9952076481409">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="852" depart="675.2819391183285">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="349" depart="675.5560883124299">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="287" depart="675.957846318641">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="58" depart="677.0443101635361">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="420" depart="677.6012693886481">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1172" depart="677.897894929104">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="812" depart="678.489866654565">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="633" depart="679.6715713614361">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="694" depart="680.3928792315323">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1257" depart="680.4153342180658">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="778" depart="681.7079093151484">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="352" depart="681.7682438398992">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="330" depart="682.6041535234564">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="425" depart="682.7130660967979">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="499" depart="683.6082884840243">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1385" depart="683.88001232339">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="797" depart="687.0530088950402">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="122" depart="687.1144972054515">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="149" depart="688.0646680857221">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1340" depart="688.5914521124828">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1007" depart="689.7509255698168">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="175" depart="690.5861870713346">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="293" depart="690.880257202192">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="798" depart="691.1833969135541">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="423" depart="691.2301720636253">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1211" depart="692.8184382477637">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="156" depart="692.8859835298283">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="592" depart="693.0581844403002">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1119" depart="693.1044399553917">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1301" depart="693.3460785669058">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1025" depart="693.3592575831088">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="457" depart="695.1219883539637">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="366" depart="695.9343459674034">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1001" depart="695.9606012923913">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="954" depart="695.9698444931157">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="268" depart="696.8661169352708">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="32" depart="697.5247300535392">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="159" depart="697.7040479280649">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="587" depart="699.3189921149321">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="621" depart="701.5684423586258">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="632" depart="702.460326365218">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="139" depart="702.9767230066539">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1315" depart="703.3281382975052">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1404" depart="703.5174150051519">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="705" depart="703.6967700435505">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="237" depart="705.0784042882008">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1200" depart="706.2942148158824">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="642" depart="707.1684042702304">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="81" depart="707.7500291025432">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="355" depart="707.9381318622917">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="698" depart="708.053836086138">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="511" depart="708.3526308079632">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1401" depart="708.5162571367796">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1351" depart="708.6539547488807">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="255" depart="709.6677353220398">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1289" depart="709.851524442339">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="298" depart="710.3827912575491">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="927" depart="710.4589075095782">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="671" depart="711.7700765337491">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1131" depart="712.5851510947102">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1239" depart="714.0283556114305">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="881" depart="714.7470000624049">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1154" depart="715.6606861671775">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="431" depart="716.4022587166886">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="884" depart="716.4322450075537">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1249" depart="716.5777417083318">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1041" depart="717.0956664319791">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="717" depart="717.860430841058">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="6" depart="718.2618565519292">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1042" depart="719.76842611924">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="504" depart="720.4293872313497">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="610" depart="721.0253156486663">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="398" depart="721.681687436762">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="966" depart="721.7692692553272">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="480" depart="723.0302421108338">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="230" depart="723.0685584273384">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="500" depart="723.441118689935">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="399" depart="725.0973277138254">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="346" depart="725.2789291285791">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="906" depart="725.4610242185796">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1208" depart="725.9957017727043">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="693" depart="726.8914729574859">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="262" depart="727.2106020753912">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1216" depart="728.3823791033849">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="719" depart="728.8673669012295">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="548" depart="731.9814420124515">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="522" depart="732.100391424976">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="19" depart="732.3782233550975">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="883" depart="732.4461956108254">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1123" depart="733.0664536186342">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="394" depart="733.3328076511312">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1221" depart="733.5902183990053">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="902" depart="733.5903447227472">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1097" depart="733.884594598432">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1353" depart="734.9418039276213">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="413" depart="735.0875499951725">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1014" depart="737.9453730886722">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="236" depart="738.4535247463003">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="553" depart="738.4670087516963">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1419" depart="739.8572476520003">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="961" depart="740.5509095937351">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1026" depart="741.1427800438568">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1062" depart="741.2791043500132">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1074" depart="741.4396084756306">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1339" depart="741.7087455125059">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1348" depart="743.9804748579933">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="166" depart="744.0966924944039">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="766" depart="744.2145073024765">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="73" depart="744.7054857740615">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="686" depart="744.7220525469145">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="43" depart="744.8381197429186">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="785" depart="746.222381001619">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="878" depart="746.533260385769">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="2" depart="746.7387660387757">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="144" depart="746.872357484316">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="679" depart="748.712029895661">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="795" depart="749.0322508296379">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1391" depart="749.068889720454">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="922" depart="750.1508593872807">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="848" depart="750.8910581809525">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="674" depart="751.0270493631385">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="520" depart="751.2599868545007">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="185" depart="751.6192627374065">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="344" depart="751.8903209721012">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="541" depart="752.9363540658252">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="276" depart="754.1711753429096">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1373" depart="754.6406966242282">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1049" depart="754.9584347460091">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="684" depart="755.7059535762895">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1412" depart="756.358105898483">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="513" depart="758.0828798887563">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="833" depart="758.2983359533147">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1093" depart="758.3555289961926">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1100" depart="759.8416479008623">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="741" depart="760.5283243156249">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="970" depart="762.4617514530219">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1252" depart="763.6181682022111">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="184" depart="764.1700496681128">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="150" depart="764.1851470908992">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="921" depart="764.650044735942">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1013" depart="765.125244697408">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1232" depart="765.5703526944245">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="968" depart="766.2145604571847">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="90" depart="766.6405763450413">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1305" depart="766.659455055746">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="755" depart="767.3630715292111">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1142" depart="767.4634358015915">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="456" depart="767.8850849348462">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="36" depart="768.1671705351164">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="952" depart="768.4228600482604">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="864" depart="768.6868775764668">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="763" depart="768.9384081926526">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1072" depart="769.4241031374736">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1413" depart="770.3586507532428">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1160" depart="770.4728537264966">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="197" depart="771.396267536024">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1105" depart="773.967377256291">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="985" depart="774.145388090221">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="537" depart="774.3681064589299">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1344" depart="774.7739021131645">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1058" depart="775.3668586237164">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="353" depart="775.9035184144182">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="222" depart="776.1945424663614">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="475" depart="776.7652165947615">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="404" depart="777.931740415446">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="202" depart="778.6810302293628">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="890" depart="778.6822435192552">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1431" depart="779.5791032806783">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1343" depart="779.6411115952151">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1383" depart="780.7008717985264">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="414" depart="782.1037024292207">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="299" depart="782.2729986977758">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="247" depart="782.8044061491702">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="155" depart="783.9401997260329">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1396" depart="784.457837271021">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1314" depart="785.8183265496915">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="925" depart="785.8683856497956">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="650" depart="786.0585695546773">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="722" depart="786.7460889563384">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="20" depart="786.8637507133077">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="448" depart="788.4694759557837">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1259" depart="788.4936678870365">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="638" depart="788.9882397992748">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="18" depart="789.8612878159995">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="659" depart="789.9052035600048">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="865" depart="790.1496011655821">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="187" depart="791.3691435217771">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="94" depart="791.5146055437773">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="596" depart="792.6742694968616">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1075" depart="793.4299684377512">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1261" depart="794.930920189939">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1036" depart="797.08326577846">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1147" depart="797.1404264762281">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1057" depart="798.0114702972486">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1402" depart="799.683192206417">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1367" depart="799.7432102717567">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="505" depart="800.5382065704675">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="897" depart="800.673136864245">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1435" depart="800.7720479922411">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1349" depart="802.356718402852">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="378" depart="802.4854839752284">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="82" depart="802.9700269684878">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="31" depart="803.4819563609166">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1150" depart="803.8910346116943">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="971" depart="804.2638579979438">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1078" depart="804.7518827954382">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1226" depart="805.4526578548149">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="317" depart="805.6952350004967">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1370" depart="806.1654831998391">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="492" depart="806.4362245535158">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="819" depart="807.4911924390466">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1103" depart="807.8130034160906">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1318" depart="808.0388699258449">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1069" depart="809.543303437971">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="494" depart="809.633306112796">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="275" depart="811.1421401248786">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="483" depart="813.3537209290968">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="393" depart="815.1437618826827">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1321" depart="815.8549022872827">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="305" depart="815.9761984520438">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="479" depart="816.7177596576801">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1024" depart="817.4563862272593">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="458" depart="817.5039566964591">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="662" depart="819.34896699066">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="911" depart="819.8800699612789">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="526" depart="820.2859508139854">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1323" depart="821.4476582756331">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="33" depart="821.930700734585">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="544" depart="822.1222086324951">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1397" depart="822.8570039284812">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="373" depart="822.9162094585433">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="354" depart="823.4321542263882">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="627" depart="824.0067083959588">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="660" depart="825.5114486331477">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="613" depart="826.1944711176387">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1065" depart="826.2892722153038">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="207" depart="827.1859762644165">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="669" depart="828.0536990339335">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="620" depart="828.2461093877436">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="836" depart="829.7853035217416">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="316" depart="830.069108757158">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="310" depart="830.1616086640732">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="451" depart="830.5010378786807">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="200" depart="831.9807179039173">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="476" depart="832.1082567103201">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="783" depart="835.5951659151076">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1285" depart="836.6242695692131">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="351" depart="836.7717688737062">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="227" depart="838.2454882349853">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="216" depart="838.3465409206594">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1018" depart="839.0263758651533">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1300" depart="839.4706878251462">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="721" depart="840.7410295066422">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="88" depart="841.9481634454496">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1263" depart="843.2840567914665">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="135" depart="843.4414124204097">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="800" depart="843.4743655687292">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1212" depart="846.3704349483836">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="860" depart="846.6848700185525">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="345" depart="847.1929990971848">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1253" depart="847.6794310120346">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="825" depart="848.073763994669">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="300" depart="848.281965628549">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="112" depart="848.3628596054238">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="619" depart="848.995927387186">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="549" depart="850.5628519119224">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1116" depart="852.8504183343784">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="102" depart="854.0766668712213">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="761" depart="854.4991729912525">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="510" depart="855.9502143515499">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="362" depart="855.9602485739032">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="406" depart="856.54821845474">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="756" depart="856.6524072446475">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="959" depart="856.8594131496084">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="809" depart="857.343561494755">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1360" depart="857.6796926270987">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="285" depart="858.6124450738046">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1322" depart="859.5059137631494">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="818" depart="859.8752716248746">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1273" depart="860.0616278775498">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="768" depart="860.5785869983648">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="529" depart="860.6999327179101">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="403" depart="860.8027952953719">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="924" depart="861.015561684894">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="747" depart="861.4970088888099">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1243" depart="861.5057514090247">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1332" depart="861.5377464409546">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="360" depart="862.2827081993452">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="318" depart="862.4055647444294">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1180" depart="862.7092776461353">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="212" depart="863.13151503431">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="421" depart="863.2827463628017">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="733" depart="864.2910328833999">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="99" depart="864.3276459611108">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="606" depart="864.485356577298">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="306" depart="864.618164638047">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="901" depart="865.4823523045918">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="577" depart="865.7192629312045">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="646" depart="866.0334596093406">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="780" depart="868.1250274021984">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1245" depart="868.160881902903">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="827" depart="868.4147357422576">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1233" depart="869.8414566475344">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="493" depart="871.8035563691762">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="724" depart="872.6005856618358">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1372" depart="872.9461350210001">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="536" depart="872.9639194012789">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="828" depart="874.6425532712398">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="87" depart="876.6563853617591">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="410" depart="877.0468357928145">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1227" depart="877.1968905960366">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="643" depart="877.9424939746312">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="623" depart="878.0778014214026">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="311" depart="879.2017185074402">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="844" depart="879.5689812484101">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="593" depart="879.6637424120531">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="463" depart="880.8574684813144">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="994" depart="882.3531539681857">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="467" depart="882.5554366096054">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1308" depart="883.1482592926186">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="213" depart="883.5336204849277">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="206" depart="884.5622034243245">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1307" depart="885.136287285969">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1128" depart="887.6290191739727">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1246" depart="888.6666391512675">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="760" depart="888.8301108318672">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="866" depart="890.2371836862026">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="977" depart="891.024814915579">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1073" depart="891.4461421202806">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1201" depart="892.5699195727983">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="343" depart="892.9658165118678">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="857" depart="893.9690930864518">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1209" depart="895.6374894274189">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="142" depart="895.8256103031351">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="304" depart="897.5276905041403">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1202" depart="898.3511069778193">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="92" depart="898.7817018777732">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1044" depart="898.9340200204047">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="519" depart="899.6744937895363">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="496" depart="900.7436326562201">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="742" depart="901.7724683626586">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="226" depart="902.1605708407324">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="194" depart="902.441834282398">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="251" depart="904.4108417014033">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="524" depart="906.3827898482292">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1086" depart="906.417072625321">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="649" depart="907.6263065625247">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="688" depart="907.8830282282736">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="545" depart="908.7552062466434">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="400" depart="909.9848854829631">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="898" depart="910.5291340028984">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1334" depart="911.5962582454301">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="658" depart="911.7633859133042">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="591" depart="912.113059999226">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1436" depart="912.5298357636482">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1362" depart="913.3756909306836">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1390" depart="915.4466739104455">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="234" depart="915.7054686041243">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1186" depart="916.414375088444">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="461" depart="918.3188614182093">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="332" depart="919.4772730107547">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="417" depart="920.8790799577478">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="424" depart="921.0789548542368">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="243" depart="921.9568750020514">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="969" depart="922.8864068763035">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="955" depart="923.0350375416394">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="419" depart="924.873562500948">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="858" depart="925.8001066782663">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="386" depart="926.6941154182069">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1388" depart="928.5430167578322">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="820" depart="928.78522454168">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1320" depart="929.7186232257183">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1035" depart="929.8499309313667">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="794" depart="932.3411869501638">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="201" depart="933.447627183941">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1264" depart="933.889720168683">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="28" depart="934.3034684282883">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="996" depart="935.2331790247041">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="113" depart="935.4608718712423">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="777" depart="935.7737053066128">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="215" depart="939.8172581115679">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="581" depart="940.2967244599181">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1336" depart="940.3848758404177">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1176" depart="940.5514607536464">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1274" depart="941.1345005941984">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1054" depart="941.2101965321742">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="769" depart="941.542613270728">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="223" depart="941.7770201455205">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="270" depart="942.224767442743">
+        <route edges="d4GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="381" depart="942.6352611753424">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="177" depart="942.7105188227952">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="767" depart="943.0129076522181">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="682" depart="943.9721220989217">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="931" depart="944.0432560275254">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1287" depart="945.0617849158347">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="965" depart="945.3894702631535">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="936" depart="946.5035444078151">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1016" depart="947.2427676574013">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="49" depart="947.2875398926639">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="841" depart="948.2695052895806">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1111" depart="948.4641002503108">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1177" depart="949.6567530030045">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1156" depart="950.0041084595981">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="367" depart="950.2928770070836">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1028" depart="950.6983752736502">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="910" depart="950.9488620969674">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1235" depart="951.337742694152">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="74" depart="951.8427732686771">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="725" depart="952.5056417362335">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="193" depart="953.410859774196">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="321" depart="953.5909378719523">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="560" depart="953.8925944385054">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="130" depart="953.9198050801809">
+        <route edges="d1GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="851" depart="954.1150011776086">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="720" depart="955.1684943595066">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1269" depart="957.8381763562357">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="803" depart="959.4744715802326">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="834" depart="960.8665145785412">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="964" depart="961.2708056284074">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="546" depart="961.4264246752376">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1082" depart="962.5744710324129">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="589" depart="962.9258540865537">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1229" depart="962.9450132191927">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="991" depart="963.2793705642331">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="776" depart="964.7331729056167">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="517" depart="964.8988228001776">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1311" depart="965.2191089292364">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1037" depart="965.4512003013139">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1102" depart="968.300438178809">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="805" depart="968.3217541269078">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="442" depart="969.1083027633678">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="600" depart="970.9964480589373">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="169" depart="971.3073620260801">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1010" depart="971.6823166918701">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="647" depart="972.6303206224408">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="917" depart="973.5395573275923">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1324" depart="973.759955290976">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="670" depart="975.15339849347">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1371" depart="976.2813183033466">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1319" depart="976.5184046716424">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1197" depart="976.7983853383982">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="264" depart="977.1450570987822">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1281" depart="977.1980480478697">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="29" depart="977.2856772544208">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1302" depart="977.430734313957">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="8" depart="977.5028609382132">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="411" depart="977.7563327488295">
+        <route edges="d4GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="473" depart="978.1266385369377">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="405" depart="978.1701297664109">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1393" depart="978.6728514028816">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1295" depart="978.7958803238429">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1005" depart="979.762650271507">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="516" depart="980.1122732599052">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="525" depart="980.4125806959984">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="280" depart="981.3073203313387">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="975" depart="982.5349812466901">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="870" depart="982.6658723379197">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="277" depart="982.6720366282741">
+        <route edges="d4GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="995" depart="984.2350790942568">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="804" depart="984.6982275942124">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="923" depart="985.4517496278651">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="728" depart="985.6164403238215">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="715" depart="986.2669776038447">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="891" depart="986.602009758808">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="1149" depart="988.2206766225655">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="515" depart="989.4377116976582">
+        <route edges="d2GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="618" depart="990.5497517993812">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="543" depart="992.1895328427636">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="585" depart="992.9697107835533">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1375" depart="994.0209666966193">
+        <route edges="d2GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="683" depart="996.6574646162046">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+    <vehicle id="1145" depart="996.6838669337969">
+        <route edges="d3GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="104" depart="997.4376476438778">
+        <route edges="d1GiaoLo GiaoLod3"/>
+    </vehicle>
+    <vehicle id="1341" depart="997.5300643062285">
+        <route edges="d3GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="672" depart="997.7948103194967">
+        <route edges="d2GiaoLo GiaoLod1"/>
+    </vehicle>
+    <vehicle id="188" depart="997.9011648048119">
+        <route edges="d1GiaoLo GiaoLod4"/>
+    </vehicle>
+    <vehicle id="1234" depart="999.2435590149036">
+        <route edges="d3GiaoLo GiaoLod2"/>
+    </vehicle>
+</routes>

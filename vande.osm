@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.8 (2498144 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="10.8441000" minlon="106.7801200" maxlat="10.8453100" maxlon="106.7817700"/>
+ <node id="366369088" visible="true" version="3" changeset="74396907" timestamp="2019-09-12T14:39:04Z" user="AnonJason" uid="9151615" lat="10.8475306" lon="106.7761307"/>
+ <node id="366369604" visible="true" version="5" changeset="60779506" timestamp="2018-07-17T01:42:44Z" user="mutpuri" uid="7795551" lat="10.8507588" lon="106.7813075"/>
+ <node id="366370851" visible="true" version="5" changeset="98124559" timestamp="2021-01-25T13:09:11Z" user="ma_dhu" uid="11909955" lat="10.8447566" lon="106.7817192"/>
+ <node id="366375287" visible="true" version="2" changeset="13960720" timestamp="2012-11-21T16:22:58Z" user="TuanIfan" uid="625303" lat="10.8418178" lon="106.7784875"/>
+ <node id="366379023" visible="true" version="9" changeset="74398358" timestamp="2019-09-12T15:12:47Z" user="AnonJason" uid="9151615" lat="10.8442815" lon="106.7847717"/>
+ <node id="366384350" visible="true" version="2" changeset="25842416" timestamp="2014-10-03T22:31:07Z" user="528491" uid="1377843" lat="10.8423818" lon="106.7811093"/>
+ <node id="366387227" visible="true" version="6" changeset="74191514" timestamp="2019-09-06T19:48:46Z" user="Whimsical Otter" uid="7466823" lat="10.8396364" lon="106.7801220"/>
+ <node id="366391071" visible="true" version="3" changeset="74191514" timestamp="2019-09-06T19:48:46Z" user="Whimsical Otter" uid="7466823" lat="10.8425612" lon="106.7811146"/>
+ <node id="366401017" visible="true" version="4" changeset="111855578" timestamp="2021-09-29T09:20:22Z" user="floringoia_grab" uid="13905585" lat="10.8465045" lon="106.7823844"/>
+ <node id="366401713" visible="true" version="4" changeset="74396907" timestamp="2019-09-12T14:39:04Z" user="AnonJason" uid="9151615" lat="10.8457388" lon="106.7792457"/>
+ <node id="366403249" visible="true" version="5" changeset="74397242" timestamp="2019-09-12T14:47:15Z" user="AnonJason" uid="9151615" lat="10.8444017" lon="106.7814324"/>
+ <node id="366403973" visible="true" version="4" changeset="74190991" timestamp="2019-09-06T19:33:22Z" user="Whimsical Otter" uid="7466823" lat="10.8439869" lon="106.7829822"/>
+ <node id="366414771" visible="true" version="6" changeset="74191514" timestamp="2019-09-06T19:48:46Z" user="Whimsical Otter" uid="7466823" lat="10.8403277" lon="106.7811392"/>
+ <node id="366418980" visible="true" version="3" changeset="74190991" timestamp="2019-09-06T19:33:22Z" user="Whimsical Otter" uid="7466823" lat="10.8440552" lon="106.7823253"/>
+ <node id="366421675" visible="true" version="5" changeset="74190991" timestamp="2019-09-06T19:33:22Z" user="Whimsical Otter" uid="7466823" lat="10.8439930" lon="106.7825072"/>
+ <node id="366422141" visible="true" version="6" changeset="59631625" timestamp="2018-06-07T10:09:45Z" user="woodpeck_repair" uid="145231" lat="10.8396495" lon="106.7768146"/>
+ <node id="366425109" visible="true" version="5" changeset="74320461" timestamp="2019-09-10T16:28:03Z" user="UncoolGuyJake" uid="7674729" lat="10.8397634" lon="106.7802603"/>
+ <node id="366431182" visible="true" version="2" changeset="25842416" timestamp="2014-10-03T22:31:08Z" user="528491" uid="1377843" lat="10.8392976" lon="106.7762646"/>
+ <node id="366438163" visible="true" version="8" changeset="74279398" timestamp="2019-09-09T19:45:29Z" user="UncoolGuyJake" uid="7674729" lat="10.8481598" lon="106.7751742"/>
+ <node id="366445385" visible="true" version="3" changeset="60596274" timestamp="2018-07-11T05:23:00Z" user="mutpuri" uid="7795551" lat="10.8453177" lon="106.7799901"/>
+ <node id="366445846" visible="true" version="3" changeset="25842416" timestamp="2014-10-03T22:31:08Z" user="528491" uid="1377843" lat="10.8444972" lon="106.7812592"/>
+ <node id="366447436" visible="true" version="3" changeset="25842416" timestamp="2014-10-03T22:31:08Z" user="528491" uid="1377843" lat="10.8408532" lon="106.7776981"/>
+ <node id="366447659" visible="true" version="6" changeset="53199138" timestamp="2017-10-24T07:03:01Z" user="raito" uid="2390670" lat="10.8444365" lon="106.7853873"/>
+ <node id="366448295" visible="true" version="2" changeset="74396907" timestamp="2019-09-12T14:39:04Z" user="AnonJason" uid="9151615" lat="10.8462905" lon="106.7782647"/>
+ <node id="366448882" visible="true" version="2" changeset="13960720" timestamp="2012-11-21T16:23:03Z" user="TuanIfan" uid="625303" lat="10.8473696" lon="106.7818049"/>
+ <node id="366449195" visible="true" version="6" changeset="74191514" timestamp="2019-09-06T19:48:46Z" user="Whimsical Otter" uid="7466823" lat="10.8407640" lon="106.7815236"/>
+ <node id="366449228" visible="true" version="7" changeset="74396907" timestamp="2019-09-12T14:39:04Z" user="AnonJason" uid="9151615" lat="10.8472008" lon="106.7766995"/>
+ <node id="366457893" visible="true" version="8" changeset="74396907" timestamp="2019-09-12T14:39:04Z" user="AnonJason" uid="9151615" lat="10.8476973" lon="106.7758434"/>
+ <node id="366461799" visible="true" version="2" changeset="13960720" timestamp="2012-11-21T16:23:00Z" user="TuanIfan" uid="625303" lat="10.8493493" lon="106.7820648"/>
+ <node id="366461811" visible="true" version="4" changeset="50662608" timestamp="2017-07-29T02:44:51Z" user="Danhthanhnguyen94" uid="5662958" lat="10.8490943" lon="106.7821816"/>
+ <node id="366477831" visible="true" version="2" changeset="13960720" timestamp="2012-11-21T16:22:58Z" user="TuanIfan" uid="625303" lat="10.8426795" lon="106.7792042"/>
+ <node id="366479182" visible="true" version="4" changeset="50642577" timestamp="2017-07-28T09:11:59Z" user="Danhthanhnguyen94" uid="5662958" lat="10.8387096" lon="106.7727987"/>
+ <node id="2024972705" visible="true" version="1" changeset="13960720" timestamp="2012-11-21T16:22:43Z" user="TuanIfan" uid="625303" lat="10.8437827" lon="106.7801846"/>
+ <node id="2024972730" visible="true" version="3" changeset="116417907" timestamp="2022-01-21T08:19:23Z" user="528491" uid="1377843" lat="10.8460810" lon="106.7824132"/>
+ <node id="2024972749" visible="true" version="3" changeset="111855578" timestamp="2021-09-29T09:20:22Z" user="floringoia_grab" uid="13905585" lat="10.8462872" lon="106.7825233"/>
+ <node id="2024972750" visible="true" version="1" changeset="13960720" timestamp="2012-11-21T16:22:44Z" user="TuanIfan" uid="625303" lat="10.8456758" lon="106.7825554"/>
+ <node id="2024972799" visible="true" version="2" changeset="74396907" timestamp="2019-09-12T14:39:04Z" user="AnonJason" uid="9151615" lat="10.8465574" lon="106.7778060"/>
+ <node id="2024972822" visible="true" version="2" changeset="49058890" timestamp="2017-05-29T02:59:48Z" user="Danh Thành Nguyễn" uid="5527928" lat="10.8501835" lon="106.7815227"/>
+ <node id="2024972826" visible="true" version="3" changeset="116417907" timestamp="2022-01-21T08:19:23Z" user="528491" uid="1377843" lat="10.8459810" lon="106.7824708"/>
+ <node id="2024972861" visible="true" version="1" changeset="13960720" timestamp="2012-11-21T16:22:45Z" user="TuanIfan" uid="625303" lat="10.8468857" lon="106.7821672"/>
+ <node id="2024972914" visible="true" version="1" changeset="13960720" timestamp="2012-11-21T16:22:46Z" user="TuanIfan" uid="625303" lat="10.8485693" lon="106.7821579"/>
+ <node id="2024972931" visible="true" version="2" changeset="116417907" timestamp="2022-01-21T08:19:23Z" user="528491" uid="1377843" lat="10.8458940" lon="106.7825258"/>
+ <node id="2024972995" visible="true" version="1" changeset="13960720" timestamp="2012-11-21T16:22:47Z" user="TuanIfan" uid="625303" lat="10.8457824" lon="106.7825873"/>
+ <node id="2024973055" visible="true" version="1" changeset="13960720" timestamp="2012-11-21T16:22:48Z" user="TuanIfan" uid="625303" lat="10.8484905" lon="106.7821498"/>
+ <node id="2024973066" visible="true" version="4" changeset="111860291" timestamp="2021-09-29T10:58:40Z" user="floringoia_grab" uid="13905585" lat="10.8478004" lon="106.7816260"/>
+ <node id="2024973134" visible="true" version="2" changeset="49058890" timestamp="2017-05-29T02:59:48Z" user="Danh Thành Nguyễn" uid="5527928" lat="10.8498258" lon="106.7816972"/>
+ <node id="2024973214" visible="true" version="3" changeset="111855578" timestamp="2021-09-29T09:20:22Z" user="floringoia_grab" uid="13905585" lat="10.8463722" lon="106.7824727"/>
+ <node id="2024973245" visible="true" version="2" changeset="111855578" timestamp="2021-09-29T09:20:22Z" user="floringoia_grab" uid="13905585" lat="10.8461865" lon="106.7824207"/>
+ <node id="2507757665" visible="true" version="1" changeset="18527748" timestamp="2013-10-24T21:59:44Z" user="Rene Tran-Guillot" uid="1638289" lat="10.8446820" lon="106.7805023">
+  <tag k="amenity" v="atm"/>
+  <tag k="name" v="Techcombank"/>
+ </node>
+ <node id="2984626158" visible="true" version="1" changeset="24404662" timestamp="2014-07-28T15:46:42Z" user="528491" uid="1377843" lat="10.8389768" lon="106.7742187"/>
+ <node id="3110290634" visible="true" version="2" changeset="74191514" timestamp="2019-09-06T19:48:46Z" user="Whimsical Otter" uid="7466823" lat="10.8400775" lon="106.7808202"/>
+ <node id="3110290638" visible="true" version="4" changeset="74191514" timestamp="2019-09-06T19:48:46Z" user="Whimsical Otter" uid="7466823" lat="10.8405664" lon="106.7814061"/>
+ <node id="3110290649" visible="true" version="1" changeset="25842416" timestamp="2014-10-03T22:30:52Z" user="528491" uid="1377843" lat="10.8413440" lon="106.7781343"/>
+ <node id="3110290699" visible="true" version="3" changeset="59631625" timestamp="2018-06-07T10:08:53Z" user="woodpeck_repair" uid="145231" lat="10.8429367" lon="106.7811794"/>
+ <node id="3110290716" visible="true" version="1" changeset="25842416" timestamp="2014-10-03T22:30:54Z" user="528491" uid="1377843" lat="10.8438300" lon="106.7812082"/>
+ <node id="3110290718" visible="true" version="2" changeset="74190991" timestamp="2019-09-06T19:33:22Z" user="Whimsical Otter" uid="7466823" lat="10.8439691" lon="106.7827597"/>
+ <node id="3110866660" visible="true" version="4" changeset="74191514" timestamp="2019-09-06T19:48:46Z" user="Whimsical Otter" uid="7466823" lat="10.8402814" lon="106.7810844"/>
+ <node id="3110866754" visible="true" version="2" changeset="97896318" timestamp="2021-01-21T10:14:29Z" user="rudra_m" uid="11662688" lat="10.8417383" lon="106.7784314"/>
+ <node id="3110866773" visible="true" version="3" changeset="59631625" timestamp="2018-06-07T10:08:54Z" user="woodpeck_repair" uid="145231" lat="10.8424372" lon="106.7811089"/>
+ <node id="3110866787" visible="true" version="3" changeset="59631625" timestamp="2018-06-07T10:05:43Z" user="woodpeck_repair" uid="145231" lat="10.8429542" lon="106.7811800"/>
+ <node id="3110866794" visible="true" version="4" changeset="74320461" timestamp="2019-09-10T16:28:03Z" user="UncoolGuyJake" uid="7674729" lat="10.8429879" lon="106.7811816"/>
+ <node id="3110866803" visible="true" version="3" changeset="59631625" timestamp="2018-06-07T10:06:16Z" user="woodpeck_repair" uid="145231" lat="10.8432132" lon="106.7811883"/>
+ <node id="3110866940" visible="true" version="4" changeset="74190991" timestamp="2019-09-06T19:33:22Z" user="Whimsical Otter" uid="7466823" lat="10.8439783" lon="106.7826319"/>
+ <node id="3110866942" visible="true" version="6" changeset="74398358" timestamp="2019-09-12T15:12:47Z" user="AnonJason" uid="9151615" lat="10.8440090" lon="106.7831164"/>
+ <node id="3110866947" visible="true" version="6" changeset="74397242" timestamp="2019-09-12T14:47:15Z" user="AnonJason" uid="9151615" lat="10.8442004" lon="106.7819638"/>
+ <node id="3110866948" visible="true" version="5" changeset="74398358" timestamp="2019-09-12T15:12:47Z" user="AnonJason" uid="9151615" lat="10.8442444" lon="106.7845460"/>
+ <node id="3110866951" visible="true" version="3" changeset="74280768" timestamp="2019-09-09T20:42:24Z" user="UncoolGuyJake" uid="7674729" lat="10.8442890" lon="106.7848171"/>
+ <node id="3110867026" visible="true" version="3" changeset="111855578" timestamp="2021-09-29T09:20:22Z" user="floringoia_grab" uid="13905585" lat="10.8462264" lon="106.7824344"/>
+ <node id="3113430875" visible="true" version="1" changeset="25884036" timestamp="2014-10-05T19:57:12Z" user="528491" uid="1377843" lat="10.8395433" lon="106.7766485"/>
+ <node id="3113430879" visible="true" version="1" changeset="25884036" timestamp="2014-10-05T19:57:12Z" user="528491" uid="1377843" lat="10.8423571" lon="106.7789003"/>
+ <node id="3116773404" visible="true" version="6" changeset="74396907" timestamp="2019-09-12T14:39:05Z" user="AnonJason" uid="9151615" lat="10.8461729" lon="106.7784739"/>
+ <node id="3116773409" visible="true" version="6" changeset="74396907" timestamp="2019-09-12T14:39:05Z" user="AnonJason" uid="9151615" lat="10.8458690" lon="106.7790142"/>
+ <node id="3116773417" visible="true" version="4" changeset="50662636" timestamp="2017-07-29T02:49:01Z" user="Danhthanhnguyen94" uid="5662958" lat="10.8468305" lon="106.7773380"/>
+ <node id="3116773419" visible="true" version="3" changeset="74396907" timestamp="2019-09-12T14:39:05Z" user="AnonJason" uid="9151615" lat="10.8473423" lon="106.7764555"/>
+ <node id="3116773427" visible="true" version="2" changeset="74152212" timestamp="2019-09-05T22:28:02Z" user="Whimsical Otter" uid="7466823" lat="10.8478245" lon="106.7756312"/>
+ <node id="3185949681" visible="true" version="2" changeset="74396907" timestamp="2019-09-12T14:39:05Z" user="AnonJason" uid="9151615" lat="10.8461049" lon="106.7785948">
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="Bệnh viện Quân Dân Miền Đông"/>
+ </node>
+ <node id="3185949682" visible="true" version="4" changeset="120876871" timestamp="2022-05-12T09:01:52Z" user="Senior Intern" uid="13899044" lat="10.8443132" lon="106.7816683">
+  <tag k="bus" v="yes"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="Trạm Xe Bus Giao Lộ Đình Phong Phú"/>
+  <tag k="public_transport" v="platform"/>
+ </node>
+ <node id="4125804797" visible="true" version="2" changeset="119374417" timestamp="2022-04-06T08:17:32Z" user="Senior Intern" uid="13899044" lat="10.8448244" lon="106.7802879">
+  <tag k="name" v="Vincom Lê Văn Việt"/>
+  <tag k="shop" v="supermarket"/>
+ </node>
+ <node id="4269770701" visible="true" version="1" changeset="40343722" timestamp="2016-06-28T13:20:36Z" user="Lorenpro123" uid="3832972" lat="10.8450364" lon="106.7801520">
+  <tag k="name" v="Nhà sách Fahasha"/>
+  <tag k="shop" v="supermarket"/>
+ </node>
+ <node id="4269788906" visible="true" version="1" changeset="40343841" timestamp="2016-06-28T13:26:22Z" user="Lorenpro123" uid="3832972" lat="10.8444543" lon="106.7811713">
+  <tag k="shop" v="optician"/>
+ </node>
+ <node id="4269790394" visible="true" version="2" changeset="119375821" timestamp="2022-04-06T08:56:19Z" user="Senior Intern" uid="13899044" lat="10.8451043" lon="106.7803390">
+  <tag k="bus" v="yes"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="Trạm Xe Bus Thành Nghĩa"/>
+  <tag k="public_transport" v="platform"/>
+ </node>
+ <node id="4290032201" visible="true" version="2" changeset="121085774" timestamp="2022-05-17T08:05:49Z" user="Senior Intern" uid="13899044" lat="10.8445816" lon="106.7809088">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="Nhà Hàng Minh Phú"/>
+ </node>
+ <node id="4290033200" visible="true" version="2" changeset="121082404" timestamp="2022-05-17T06:56:16Z" user="Senior Intern" uid="13899044" lat="10.8443206" lon="106.7814619">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="Nhà Hàng 354"/>
+ </node>
+ <node id="4924555203" visible="true" version="1" changeset="49669845" timestamp="2017-06-19T15:05:51Z" user="KimChinhTri" uid="4892796" lat="10.8447458" lon="106.7809101"/>
+ <node id="4974829023" visible="true" version="5" changeset="93715514" timestamp="2020-11-07T17:46:46Z" user="gps4200" uid="8340340" lat="10.8446685" lon="106.7810545">
+  <tag k="addr:housename" v="83"/>
+  <tag k="addr:housenumber" v="171"/>
+  <tag k="addr:street" v="Đường Lê Văn Việt"/>
+ </node>
+ <node id="4974829026" visible="true" version="5" changeset="93715514" timestamp="2020-11-07T17:46:46Z" user="gps4200" uid="8340340" lat="10.8444663" lon="106.7814082">
+  <tag k="addr:housename" v="8"/>
+  <tag k="addr:housenumber" v="181"/>
+  <tag k="addr:street" v="Đường Lê Văn Việt"/>
+ </node>
+ <node id="4974829033" visible="true" version="4" changeset="93715514" timestamp="2020-11-07T17:46:46Z" user="gps4200" uid="8340340" lat="10.8446911" lon="106.7810147">
+  <tag k="addr:housenumber" v="9"/>
+ </node>
+ <node id="4976412876" visible="true" version="4" changeset="74398973" timestamp="2019-09-12T15:28:19Z" user="AnonJason" uid="9151615" lat="10.8446830" lon="106.7806136">
+  <tag k="addr:housenumber" v="144"/>
+  <tag k="addr:street" v="Đường Lê Văn Việt"/>
+  <tag k="information" v="nha sách nguyễn văn cừ"/>
+ </node>
+ <node id="4976412882" visible="true" version="4" changeset="74398973" timestamp="2019-09-12T15:28:19Z" user="AnonJason" uid="9151615" lat="10.8450815" lon="106.7801585">
+  <tag k="addr:housenumber" v="138"/>
+  <tag k="addr:street" v="Đường Lê Văn Việt"/>
+  <tag k="information" v="nhà sách fahasa"/>
+ </node>
+ <node id="4976412899" visible="true" version="5" changeset="93715514" timestamp="2020-11-07T17:46:46Z" user="gps4200" uid="8340340" lat="10.8444150" lon="106.7811951">
+  <tag k="addr:housenumber" v="156-158"/>
+  <tag k="addr:street" v="Đường Lê Văn Việt"/>
+ </node>
+ <node id="5042168656" visible="true" version="2" changeset="74191514" timestamp="2019-09-06T19:48:46Z" user="Whimsical Otter" uid="7466823" lat="10.8425023" lon="106.7811081"/>
+ <node id="5042168676" visible="true" version="2" changeset="74191514" timestamp="2019-09-06T19:48:46Z" user="Whimsical Otter" uid="7466823" lat="10.8398862" lon="106.7805040"/>
+ <node id="5246849478" visible="true" version="2" changeset="111860291" timestamp="2021-09-29T10:58:40Z" user="floringoia_grab" uid="13905585" lat="10.8482095" lon="106.7819563"/>
+ <node id="5748273091" visible="true" version="2" changeset="60596274" timestamp="2018-07-11T05:23:01Z" user="mutpuri" uid="7795551" lat="10.8405874" lon="106.7774990"/>
+ <node id="5748444592" visible="true" version="1" changeset="60524350" timestamp="2018-07-09T05:43:43Z" user="mutpuri" uid="7795551" lat="10.8398192" lon="106.7769392"/>
+ <node id="5748445197" visible="true" version="1" changeset="60524350" timestamp="2018-07-09T05:43:45Z" user="mutpuri" uid="7795551" lat="10.8390699" lon="106.7748124"/>
+ <node id="5748445207" visible="true" version="1" changeset="60524350" timestamp="2018-07-09T05:43:45Z" user="mutpuri" uid="7795551" lat="10.8392010" lon="106.7756484"/>
+ <node id="5753153002" visible="true" version="2" changeset="85917865" timestamp="2020-05-29T04:19:27Z" user="DuyOliver" uid="8733486" lat="10.8454318" lon="106.7797845"/>
+ <node id="5753153005" visible="true" version="2" changeset="74396907" timestamp="2019-09-12T14:39:05Z" user="AnonJason" uid="9151615" lat="10.8456510" lon="106.7794017"/>
+ <node id="5753153006" visible="true" version="3" changeset="74396907" timestamp="2019-09-12T14:39:05Z" user="AnonJason" uid="9151615" lat="10.8459652" lon="106.7788432"/>
+ <node id="5753177427" visible="true" version="1" changeset="60596727" timestamp="2018-07-11T05:46:50Z" user="mutpuri" uid="7795551" lat="10.8436073" lon="106.7800287"/>
+ <node id="5753177429" visible="true" version="1" changeset="60596727" timestamp="2018-07-11T05:46:50Z" user="mutpuri" uid="7795551" lat="10.8415001" lon="106.7813395"/>
+ <node id="5753177434" visible="true" version="1" changeset="60596727" timestamp="2018-07-11T05:46:50Z" user="mutpuri" uid="7795551" lat="10.8452554" lon="106.7801059"/>
+ <node id="5753337022" visible="true" version="2" changeset="74152388" timestamp="2019-09-05T22:39:41Z" user="Whimsical Otter" uid="7466823" lat="10.8443498" lon="106.7850785"/>
+ <node id="5753337049" visible="true" version="2" changeset="74398358" timestamp="2019-09-12T15:12:47Z" user="AnonJason" uid="9151615" lat="10.8440451" lon="106.7833357"/>
+ <node id="5755527822" visible="true" version="1" changeset="60638554" timestamp="2018-07-12T07:25:17Z" user="mutpuri" uid="7795551" lat="10.8459272" lon="106.7819595"/>
+ <node id="5755527823" visible="true" version="1" changeset="60638554" timestamp="2018-07-12T07:25:17Z" user="mutpuri" uid="7795551" lat="10.8458218" lon="106.7817450"/>
+ <node id="5755527824" visible="true" version="1" changeset="60638554" timestamp="2018-07-12T07:25:17Z" user="mutpuri" uid="7795551" lat="10.8456795" lon="106.7815894"/>
+ <node id="5755527825" visible="true" version="1" changeset="60638554" timestamp="2018-07-12T07:25:17Z" user="mutpuri" uid="7795551" lat="10.8454398" lon="106.7814338"/>
+ <node id="5755527826" visible="true" version="1" changeset="60638554" timestamp="2018-07-12T07:25:17Z" user="mutpuri" uid="7795551" lat="10.8452185" lon="106.7812863"/>
+ <node id="5755527827" visible="true" version="1" changeset="60638554" timestamp="2018-07-12T07:25:17Z" user="mutpuri" uid="7795551" lat="10.8449577" lon="106.7810959"/>
+ <node id="5755527828" visible="true" version="1" changeset="60638554" timestamp="2018-07-12T07:25:17Z" user="mutpuri" uid="7795551" lat="10.8448418" lon="106.7809913"/>
+ <node id="5755527829" visible="true" version="1" changeset="60638554" timestamp="2018-07-12T07:25:17Z" user="mutpuri" uid="7795551" lat="10.8448761" lon="106.7808786"/>
+ <node id="5755527830" visible="true" version="1" changeset="60638554" timestamp="2018-07-12T07:25:18Z" user="mutpuri" uid="7795551" lat="10.8449815" lon="106.7807364"/>
+ <node id="5755527831" visible="true" version="1" changeset="60638554" timestamp="2018-07-12T07:25:18Z" user="mutpuri" uid="7795551" lat="10.8451395" lon="106.7805299"/>
+ <node id="5755527832" visible="true" version="1" changeset="60638554" timestamp="2018-07-12T07:25:18Z" user="mutpuri" uid="7795551" lat="10.8451764" lon="106.7804387"/>
+ <node id="5755527833" visible="true" version="1" changeset="60638554" timestamp="2018-07-12T07:25:18Z" user="mutpuri" uid="7795551" lat="10.8452291" lon="106.7803690"/>
+ <node id="5755527839" visible="true" version="1" changeset="60638554" timestamp="2018-07-12T07:25:18Z" user="mutpuri" uid="7795551" lat="10.8502411" lon="106.7814975"/>
+ <node id="5755527847" visible="true" version="1" changeset="60638554" timestamp="2018-07-12T07:25:18Z" user="mutpuri" uid="7795551" lat="10.8453950" lon="106.7801329"/>
+ <node id="5755527848" visible="true" version="1" changeset="60638554" timestamp="2018-07-12T07:25:18Z" user="mutpuri" uid="7795551" lat="10.8452798" lon="106.7800606"/>
+ <node id="5755576894" visible="true" version="3" changeset="98124559" timestamp="2021-01-25T13:09:11Z" user="ma_dhu" uid="11909955" lat="10.8450045" lon="106.7813366"/>
+ <node id="5755576913" visible="true" version="1" changeset="60639416" timestamp="2018-07-12T07:48:48Z" user="mutpuri" uid="7795551" lat="10.8454111" lon="106.7823087"/>
+ <node id="5765438184" visible="true" version="2" changeset="74396907" timestamp="2019-09-12T14:39:05Z" user="AnonJason" uid="9151615" lat="10.8465086" lon="106.7778897"/>
+ <node id="5811572061" visible="true" version="2" changeset="74152212" timestamp="2019-09-05T22:28:02Z" user="Whimsical Otter" uid="7466823" lat="10.8447168" lon="106.7808953"/>
+ <node id="5811572062" visible="true" version="2" changeset="74152212" timestamp="2019-09-05T22:28:02Z" user="Whimsical Otter" uid="7466823" lat="10.8444709" lon="106.7812645"/>
+ <node id="6660546439" visible="true" version="2" changeset="74398358" timestamp="2019-09-12T15:12:47Z" user="AnonJason" uid="9151615" lat="10.8441771" lon="106.7841377"/>
+ <node id="6775745912" visible="true" version="1" changeset="74152212" timestamp="2019-09-05T22:28:02Z" user="Whimsical Otter" uid="7466823" lat="10.8446472" lon="106.7814991"/>
+ <node id="6775745913" visible="true" version="1" changeset="74152212" timestamp="2019-09-05T22:28:02Z" user="Whimsical Otter" uid="7466823" lat="10.8445089" lon="106.7813905"/>
+ <node id="6775745914" visible="true" version="1" changeset="74152212" timestamp="2019-09-05T22:28:02Z" user="Whimsical Otter" uid="7466823" lat="10.8444730" lon="106.7814378"/>
+ <node id="6775745915" visible="true" version="1" changeset="74152212" timestamp="2019-09-05T22:28:02Z" user="Whimsical Otter" uid="7466823" lat="10.8446113" lon="106.7815465"/>
+ <node id="6775745916" visible="true" version="2" changeset="74280768" timestamp="2019-09-09T20:42:24Z" user="UncoolGuyJake" uid="7674729" lat="10.8445161" lon="106.7811951">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="traffic_signals:direction" v="forward"/>
+ </node>
+ <node id="6775745917" visible="true" version="2" changeset="74397242" timestamp="2019-09-12T14:47:15Z" user="AnonJason" uid="9151615" lat="10.8444734" lon="106.7814863">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="6775745918" visible="true" version="1" changeset="74152212" timestamp="2019-09-05T22:28:02Z" user="Whimsical Otter" uid="7466823" lat="10.8446192" lon="106.7812367">
+  <tag k="addr:housenumber" v="175"/>
+  <tag k="addr:street" v="Đường Lê Văn Việt"/>
+ </node>
+ <node id="6775745919" visible="true" version="1" changeset="74152212" timestamp="2019-09-05T22:28:02Z" user="Whimsical Otter" uid="7466823" lat="10.8446535" lon="106.7811616">
+  <tag k="addr:housenumber" v="173"/>
+  <tag k="addr:street" v="Đường Lê Văn Việt"/>
+ </node>
+ <node id="6775745920" visible="true" version="1" changeset="74152212" timestamp="2019-09-05T22:28:02Z" user="Whimsical Otter" uid="7466823" lat="10.8445979" lon="106.7810683"/>
+ <node id="6775745922" visible="true" version="1" changeset="74152212" timestamp="2019-09-05T22:28:02Z" user="Whimsical Otter" uid="7466823" lat="10.8452113" lon="106.7801789">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="6775745926" visible="true" version="2" changeset="74396907" timestamp="2019-09-12T14:39:06Z" user="AnonJason" uid="9151615" lat="10.8457635" lon="106.7792017">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="6775745929" visible="true" version="2" changeset="74396907" timestamp="2019-09-12T14:39:06Z" user="AnonJason" uid="9151615" lat="10.8463090" lon="106.7782319">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="6775745930" visible="true" version="2" changeset="74396907" timestamp="2019-09-12T14:39:06Z" user="AnonJason" uid="9151615" lat="10.8462073" lon="106.7784127">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="6775745935" visible="true" version="2" changeset="74396907" timestamp="2019-09-12T14:39:06Z" user="AnonJason" uid="9151615" lat="10.8471341" lon="106.7768144">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="6775745937" visible="true" version="1" changeset="74152212" timestamp="2019-09-05T22:28:02Z" user="Whimsical Otter" uid="7466823" lat="10.8477592" lon="106.7757366"/>
+ <node id="6775745938" visible="true" version="2" changeset="74396907" timestamp="2019-09-12T14:39:06Z" user="AnonJason" uid="9151615" lat="10.8476402" lon="106.7759418">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="6775745939" visible="true" version="1" changeset="74152212" timestamp="2019-09-05T22:28:02Z" user="Whimsical Otter" uid="7466823" lat="10.8480750" lon="106.7752933">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="6775768617" visible="true" version="1" changeset="74152388" timestamp="2019-09-05T22:39:41Z" user="Whimsical Otter" uid="7466823" lat="10.8443029" lon="106.7848729">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="6778114907" visible="true" version="3" changeset="74397242" timestamp="2019-09-12T14:47:15Z" user="AnonJason" uid="9151615" lat="10.8443401" lon="106.7815978">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="traffic_signals:direction" v="backward"/>
+ </node>
+ <node id="6778114910" visible="true" version="1" changeset="74190991" timestamp="2019-09-06T19:33:22Z" user="Whimsical Otter" uid="7466823" lat="10.8439750" lon="106.7826784"/>
+ <node id="6778114918" visible="true" version="2" changeset="74398358" timestamp="2019-09-12T15:12:47Z" user="AnonJason" uid="9151615" lat="10.8442307" lon="106.7844632"/>
+ <node id="6778148743" visible="true" version="1" changeset="74191514" timestamp="2019-09-06T19:48:46Z" user="Whimsical Otter" uid="7466823" lat="10.8407086" lon="106.7815076"/>
+ <node id="6778148749" visible="true" version="1" changeset="74191514" timestamp="2019-09-06T19:48:46Z" user="Whimsical Otter" uid="7466823" lat="10.8431626" lon="106.7811867"/>
+ <node id="6778148750" visible="true" version="1" changeset="74191514" timestamp="2019-09-06T19:48:46Z" user="Whimsical Otter" uid="7466823" lat="10.8440268" lon="106.7812194"/>
+ <node id="6778148752" visible="true" version="1" changeset="74191514" timestamp="2019-09-06T19:48:46Z" user="Whimsical Otter" uid="7466823" lat="10.8444300" lon="106.7813622"/>
+ <node id="6778148753" visible="true" version="1" changeset="74191514" timestamp="2019-09-06T19:48:46Z" user="Whimsical Otter" uid="7466823" lat="10.8443874" lon="106.7812850"/>
+ <node id="6778148754" visible="true" version="1" changeset="74191514" timestamp="2019-09-06T19:48:46Z" user="Whimsical Otter" uid="7466823" lat="10.8443325" lon="106.7812368"/>
+ <node id="6778148755" visible="true" version="1" changeset="74191514" timestamp="2019-09-06T19:48:46Z" user="Whimsical Otter" uid="7466823" lat="10.8443769" lon="106.7812394"/>
+ <node id="6783754854" visible="true" version="2" changeset="74321414" timestamp="2019-09-10T16:48:24Z" user="UncoolGuyJake" uid="7674729" lat="10.8443169" lon="106.7812359">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="traffic_signals:direction" v="backward"/>
+ </node>
+ <node id="6786174346" visible="true" version="1" changeset="74320461" timestamp="2019-09-10T16:28:03Z" user="UncoolGuyJake" uid="7674729" lat="10.8397049" lon="106.7801785"/>
+ <node id="6790612061" visible="true" version="1" changeset="74396907" timestamp="2019-09-12T14:39:04Z" user="AnonJason" uid="9151615" lat="10.8456035" lon="106.7794862"/>
+ <node id="6790612062" visible="true" version="1" changeset="74396907" timestamp="2019-09-12T14:39:04Z" user="AnonJason" uid="9151615" lat="10.8466028" lon="106.7777283">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="7774320586" visible="true" version="1" changeset="88801738" timestamp="2020-07-31T22:47:18Z" user="VLD170" uid="11417369" lat="10.8472663" lon="106.7818822"/>
+ <node id="8344791170" visible="true" version="1" changeset="97895081" timestamp="2021-01-21T09:59:06Z" user="rudra_m" uid="11662688" lat="10.8422434" lon="106.7811454"/>
+ <node id="8347509231" visible="true" version="1" changeset="97938749" timestamp="2021-01-22T04:09:43Z" user="rudra_m" uid="11662688" lat="10.8390035" lon="106.7743887"/>
+ <node id="8359873868" visible="true" version="1" changeset="98100013" timestamp="2021-01-25T07:46:38Z" user="ma_dhu" uid="11909955" lat="10.8458399" lon="106.7790660"/>
+ <node id="8359914950" visible="true" version="1" changeset="98100699" timestamp="2021-01-25T07:56:09Z" user="ma_dhu" uid="11909955" lat="10.8467527" lon="106.7822413"/>
+ <node id="8360016279" visible="true" version="1" changeset="98103783" timestamp="2021-01-25T08:40:31Z" user="ma_dhu" uid="11909955" lat="10.8499382" lon="106.7816424"/>
+ <node id="8360828203" visible="true" version="1" changeset="98124559" timestamp="2021-01-25T13:09:11Z" user="ma_dhu" uid="11909955" lat="10.8451369" lon="106.7814439"/>
+ <node id="8360828204" visible="true" version="1" changeset="98124559" timestamp="2021-01-25T13:09:11Z" user="ma_dhu" uid="11909955" lat="10.8451402" lon="106.7814573"/>
+ <node id="8360828205" visible="true" version="1" changeset="98124559" timestamp="2021-01-25T13:09:11Z" user="ma_dhu" uid="11909955" lat="10.8451336" lon="106.7814694"/>
+ <node id="8360828206" visible="true" version="1" changeset="98124559" timestamp="2021-01-25T13:09:11Z" user="ma_dhu" uid="11909955" lat="10.8448685" lon="106.7818116"/>
+ <node id="9288452506" visible="true" version="1" changeset="114300283" timestamp="2021-11-27T16:35:44Z" user="Trân trân" uid="12198525" lat="10.8450243" lon="106.7863914"/>
+ <node id="9288452507" visible="true" version="1" changeset="114300283" timestamp="2021-11-27T16:35:44Z" user="Trân trân" uid="12198525" lat="10.8443457" lon="106.7851145"/>
+ <node id="9288452508" visible="true" version="1" changeset="114300283" timestamp="2021-11-27T16:35:44Z" user="Trân trân" uid="12198525" lat="10.8445947" lon="106.7857316"/>
+ <node id="9288480957" visible="true" version="1" changeset="114300679" timestamp="2021-11-27T16:49:50Z" user="Trân trân" uid="12198525" lat="10.8387831" lon="106.7727971"/>
+ <node id="9288480958" visible="true" version="1" changeset="114300679" timestamp="2021-11-27T16:49:50Z" user="Trân trân" uid="12198525" lat="10.8387678" lon="106.7720957"/>
+ <node id="9288480959" visible="true" version="1" changeset="114300679" timestamp="2021-11-27T16:49:50Z" user="Trân trân" uid="12198525" lat="10.8385650" lon="106.7720931"/>
+ <node id="9288480960" visible="true" version="1" changeset="114300679" timestamp="2021-11-27T16:49:50Z" user="Trân trân" uid="12198525" lat="10.8385802" lon="106.7710609"/>
+ <way id="32581224" visible="true" version="19" changeset="124043975" timestamp="2022-07-25T10:00:49Z" user="GrabVN_Ánh Linh Lê" uid="13749044">
+  <nd ref="5811572062"/>
+  <nd ref="6778148755"/>
+  <nd ref="6778148754"/>
+  <nd ref="6783754854"/>
+  <nd ref="6778148750"/>
+  <nd ref="3110290716"/>
+  <nd ref="3110866803"/>
+  <nd ref="6778148749"/>
+  <nd ref="3110866794"/>
+  <nd ref="3110866787"/>
+  <nd ref="3110290699"/>
+  <nd ref="366391071"/>
+  <nd ref="5042168656"/>
+  <nd ref="3110866773"/>
+  <nd ref="366384350"/>
+  <nd ref="8344791170"/>
+  <nd ref="5753177429"/>
+  <nd ref="366449195"/>
+  <nd ref="6778148743"/>
+  <nd ref="3110290638"/>
+  <nd ref="366414771"/>
+  <nd ref="3110866660"/>
+  <nd ref="3110290634"/>
+  <nd ref="5042168676"/>
+  <nd ref="366425109"/>
+  <nd ref="6786174346"/>
+  <nd ref="366387227"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Đường Đình Phong Phú"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="191937846" visible="true" version="31" changeset="131983676" timestamp="2023-02-02T01:41:06Z" user="Trần Thanh Tuấn" uid="16014056">
+  <nd ref="366438163"/>
+  <nd ref="6775745939"/>
+  <nd ref="3116773427"/>
+  <nd ref="6775745937"/>
+  <nd ref="366457893"/>
+  <nd ref="6775745938"/>
+  <nd ref="366369088"/>
+  <nd ref="3116773419"/>
+  <nd ref="366449228"/>
+  <nd ref="6775745935"/>
+  <nd ref="3116773417"/>
+  <nd ref="6790612062"/>
+  <nd ref="2024972799"/>
+  <nd ref="5765438184"/>
+  <nd ref="6775745929"/>
+  <nd ref="366448295"/>
+  <nd ref="6775745930"/>
+  <nd ref="3116773404"/>
+  <nd ref="3185949681"/>
+  <nd ref="5753153006"/>
+  <nd ref="3116773409"/>
+  <nd ref="8359873868"/>
+  <nd ref="6775745926"/>
+  <nd ref="366401713"/>
+  <nd ref="5753153005"/>
+  <nd ref="6790612061"/>
+  <nd ref="5753153002"/>
+  <nd ref="366445385"/>
+  <nd ref="5755527848"/>
+  <nd ref="5753177434"/>
+  <nd ref="6775745922"/>
+  <nd ref="5811572061"/>
+  <nd ref="6775745920"/>
+  <nd ref="6775745916"/>
+  <nd ref="5811572062"/>
+  <nd ref="6778148752"/>
+  <nd ref="366403249"/>
+  <nd ref="6778114907"/>
+  <nd ref="3185949682"/>
+  <nd ref="3110866947"/>
+  <nd ref="366418980"/>
+  <nd ref="366421675"/>
+  <nd ref="3110866940"/>
+  <nd ref="6778114910"/>
+  <nd ref="3110290718"/>
+  <nd ref="366403973"/>
+  <nd ref="3110866942"/>
+  <nd ref="5753337049"/>
+  <nd ref="6660546439"/>
+  <nd ref="6778114918"/>
+  <nd ref="3110866948"/>
+  <nd ref="366379023"/>
+  <nd ref="3110866951"/>
+  <nd ref="6775768617"/>
+  <nd ref="5753337022"/>
+  <nd ref="366447659"/>
+  <tag k="hgv_articulated" v="no"/>
+  <tag k="hgv:conditional" v="no @ (06:00-08:30,16:00-20:30)"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="Đường Lê Văn Việt"/>
+  <tag k="name:en" v="Le Van Viet"/>
+  <tag k="oneway" v="no"/>
+  <tag k="overtaking" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="191937854" visible="true" version="14" changeset="111860291" timestamp="2021-09-29T10:58:40Z" user="floringoia_grab" uid="13905585">
+  <nd ref="366369604"/>
+  <nd ref="5755527839"/>
+  <nd ref="2024972822"/>
+  <nd ref="8360016279"/>
+  <nd ref="2024973134"/>
+  <nd ref="366461799"/>
+  <nd ref="366461811"/>
+  <nd ref="2024972914"/>
+  <nd ref="2024973055"/>
+  <nd ref="5246849478"/>
+  <nd ref="2024973066"/>
+  <nd ref="366448882"/>
+  <nd ref="7774320586"/>
+  <nd ref="2024972861"/>
+  <nd ref="8359914950"/>
+  <nd ref="366401017"/>
+  <nd ref="2024973214"/>
+  <nd ref="2024972749"/>
+  <nd ref="3110867026"/>
+  <nd ref="2024973245"/>
+  <nd ref="2024972730"/>
+  <nd ref="2024972826"/>
+  <nd ref="2024972931"/>
+  <nd ref="2024972995"/>
+  <nd ref="2024972750"/>
+  <nd ref="5755576913"/>
+  <nd ref="8360828206"/>
+  <nd ref="366370851"/>
+  <nd ref="6775745917"/>
+  <nd ref="366403249"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Đường Trương Văn Thành"/>
+  <tag k="name:en" v="Truong Van Thanh"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="306170804" visible="true" version="14" changeset="107825043" timestamp="2021-07-12T09:05:17Z" user="kalva_ravi" uid="12625841">
+  <nd ref="366479182"/>
+  <nd ref="2984626158"/>
+  <nd ref="8347509231"/>
+  <nd ref="5748445197"/>
+  <nd ref="5748445207"/>
+  <nd ref="366431182"/>
+  <nd ref="3113430875"/>
+  <nd ref="366422141"/>
+  <nd ref="5748444592"/>
+  <nd ref="5748273091"/>
+  <nd ref="366447436"/>
+  <nd ref="3110290649"/>
+  <nd ref="3110866754"/>
+  <nd ref="366375287"/>
+  <nd ref="3113430879"/>
+  <nd ref="366477831"/>
+  <nd ref="5753177427"/>
+  <nd ref="2024972705"/>
+  <nd ref="5811572061"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Đường Trương Văn Hải"/>
+  <tag k="name:en" v="Truong Van Hai"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="501739939" visible="true" version="4" changeset="114300679" timestamp="2021-11-27T16:49:50Z" user="Trân trân" uid="12198525">
+  <nd ref="9288452506"/>
+  <nd ref="9288452508"/>
+  <nd ref="366447659"/>
+  <nd ref="9288452507"/>
+  <nd ref="3110866951"/>
+  <nd ref="3110866942"/>
+  <nd ref="3110866940"/>
+  <nd ref="366418980"/>
+  <nd ref="366445846"/>
+  <nd ref="4924555203"/>
+  <nd ref="366477831"/>
+  <nd ref="3110290649"/>
+  <nd ref="366422141"/>
+  <nd ref="366431182"/>
+  <nd ref="366479182"/>
+  <nd ref="9288480957"/>
+  <nd ref="9288480958"/>
+  <nd ref="9288480959"/>
+  <nd ref="9288480960"/>
+  <tag k="boundary" v="administrative"/>
+ </way>
+ <way id="607268674" visible="true" version="2" changeset="74397242" timestamp="2019-09-12T14:47:15Z" user="AnonJason" uid="9151615">
+  <nd ref="5755527847"/>
+  <nd ref="5755527833"/>
+  <nd ref="5755527832"/>
+  <nd ref="5755527831"/>
+  <nd ref="5755527830"/>
+  <nd ref="5755527829"/>
+  <nd ref="5755527828"/>
+  <nd ref="5755527827"/>
+  <nd ref="5755527826"/>
+  <nd ref="5755527825"/>
+  <nd ref="5755527824"/>
+  <nd ref="5755527823"/>
+  <nd ref="5755527822"/>
+  <tag k="highway" v="service"/>
+  <tag k="surface" v="gravel"/>
+ </way>
+ <way id="607276988" visible="true" version="1" changeset="60639416" timestamp="2018-07-12T07:48:48Z" user="mutpuri" uid="7795551">
+  <nd ref="366370851"/>
+  <nd ref="5755576894"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="722357069" visible="true" version="1" changeset="74152212" timestamp="2019-09-05T22:28:02Z" user="Whimsical Otter" uid="7466823">
+  <nd ref="6775745915"/>
+  <nd ref="6775745914"/>
+  <nd ref="6775745913"/>
+  <nd ref="6775745912"/>
+  <nd ref="6775745915"/>
+  <tag k="addr:street" v="Đường Lê Văn Việt"/>
+  <tag k="amenity" v="bank"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Viet Capital Bank"/>
+ </way>
+ <way id="722357070" visible="true" version="1" changeset="74152212" timestamp="2019-09-05T22:28:02Z" user="Whimsical Otter" uid="7466823">
+  <nd ref="6775745920"/>
+  <nd ref="5755576894"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="1"/>
+  <tag k="mofa" v="yes"/>
+  <tag k="moped" v="yes"/>
+  <tag k="motorcycle" v="yes"/>
+  <tag k="motor_vehicle" v="no"/>
+  <tag k="name" v="Hẻm 171 Đường Lê Văn Việt"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="722597398" visible="true" version="2" changeset="74397242" timestamp="2019-09-12T14:47:15Z" user="AnonJason" uid="9151615">
+  <nd ref="6778148754"/>
+  <nd ref="6778148753"/>
+  <nd ref="6778148752"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="highway" v="tertiary_link"/>
+  <tag k="lanes" v="1"/>
+  <tag k="moped" v="yes"/>
+  <tag k="motorcycle" v="yes"/>
+  <tag k="motor_vehicle" v="no"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="899878033" visible="true" version="3" changeset="111636894" timestamp="2021-09-24T09:19:58Z" user="kalva_ravi" uid="12625841">
+  <nd ref="8360828206"/>
+  <nd ref="8360828205"/>
+  <nd ref="8360828204"/>
+  <nd ref="8360828203"/>
+  <nd ref="5755576894"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Hẻm 1 Đường Trương Văn Thành"/>
+ </way>
+ <relation id="7342306" visible="true" version="13" changeset="128584823" timestamp="2022-11-07T07:59:41Z" user="Trần Thanh Tuấn" uid="16014056">
+  <member type="node" ref="10165709824" role="label"/>
+  <member type="way" ref="501639815" role="outer"/>
+  <member type="way" ref="485048434" role="outer"/>
+  <member type="way" ref="501622246" role="outer"/>
+  <member type="way" ref="501739938" role="outer"/>
+  <member type="way" ref="1006789908" role="outer"/>
+  <member type="way" ref="501739939" role="outer"/>
+  <tag k="admin_level" v="8"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="Phường Hiệp Phú"/>
+  <tag k="name:en" v="Hiep Phu Ward"/>
+  <tag k="name:zh" v="协富坊"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q10767682"/>
+  <tag k="wikipedia" v="vi:Hiệp Phú"/>
+ </relation>
+ <relation id="7343272" visible="true" version="12" changeset="128584823" timestamp="2022-11-07T07:59:41Z" user="Trần Thanh Tuấn" uid="16014056">
+  <member type="node" ref="10165709817" role="label"/>
+  <member type="way" ref="501739939" role="outer"/>
+  <member type="way" ref="501739940" role="outer"/>
+  <member type="way" ref="501739941" role="outer"/>
+  <member type="way" ref="501639797" role="outer"/>
+  <member type="way" ref="501739942" role="outer"/>
+  <member type="way" ref="501639816" role="outer"/>
+  <tag k="admin_level" v="8"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="Phường Tăng Nhơn Phú B"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q10831358"/>
+ </relation>
+ <relation id="11721235" visible="true" version="46" changeset="135488844" timestamp="2023-04-29T02:01:54Z" user="Trân trân" uid="12198525">
+  <member type="node" ref="2955883544" role="admin_centre"/>
+  <member type="way" ref="291967375" role="outer"/>
+  <member type="way" ref="485050427" role="outer"/>
+  <member type="way" ref="485048439" role="outer"/>
+  <member type="way" ref="286342031" role="outer"/>
+  <member type="way" ref="286342027" role="outer"/>
+  <member type="way" ref="286342029" role="outer"/>
+  <member type="way" ref="286342034" role="outer"/>
+  <member type="way" ref="485048438" role="outer"/>
+  <member type="way" ref="470198974" role="outer"/>
+  <member type="way" ref="470198973" role="outer"/>
+  <member type="way" ref="1005422924" role="outer"/>
+  <member type="way" ref="485048429" role="outer"/>
+  <member type="way" ref="1146140871" role="outer"/>
+  <member type="way" ref="291549078" role="outer"/>
+  <member type="way" ref="608005582" role="outer"/>
+  <member type="way" ref="485048430" role="outer"/>
+  <member type="way" ref="485529720" role="outer"/>
+  <member type="way" ref="485524300" role="outer"/>
+  <member type="way" ref="1006826462" role="outer"/>
+  <member type="way" ref="485524305" role="outer"/>
+  <member type="way" ref="608005584" role="outer"/>
+  <member type="way" ref="291501521" role="outer"/>
+  <member type="way" ref="1001108448" role="outer"/>
+  <member type="way" ref="291966910" role="outer"/>
+  <member type="way" ref="291052401" role="outer"/>
+  <member type="way" ref="1000616044" role="outer"/>
+  <member type="way" ref="1123840152" role="outer"/>
+  <member type="way" ref="1000616043" role="outer"/>
+  <member type="way" ref="1000616042" role="outer"/>
+  <member type="way" ref="486392495" role="outer"/>
+  <member type="way" ref="501631548" role="outer"/>
+  <member type="way" ref="1005464159" role="outer"/>
+  <member type="way" ref="501631554" role="outer"/>
+  <member type="way" ref="504562909" role="outer"/>
+  <member type="way" ref="504562911" role="outer"/>
+  <member type="way" ref="1005464163" role="outer"/>
+  <member type="way" ref="205798558" role="outer"/>
+  <member type="way" ref="205798561" role="outer"/>
+  <member type="way" ref="504152911" role="outer"/>
+  <member type="way" ref="502903913" role="outer"/>
+  <member type="way" ref="502262238" role="outer"/>
+  <member type="way" ref="206677437" role="outer"/>
+  <member type="way" ref="473189343" role="outer"/>
+  <member type="way" ref="955409910" role="outer"/>
+  <member type="way" ref="472074793" role="outer"/>
+  <member type="way" ref="472074786" role="outer"/>
+  <member type="way" ref="472074778" role="outer"/>
+  <member type="way" ref="472238993" role="outer"/>
+  <member type="way" ref="502262234" role="outer"/>
+  <member type="way" ref="472238985" role="outer"/>
+  <member type="way" ref="286342024" role="outer"/>
+  <member type="way" ref="502262239" role="outer"/>
+  <member type="relation" ref="7144245" role="subarea"/>
+  <member type="relation" ref="7144244" role="subarea"/>
+  <member type="relation" ref="7144243" role="subarea"/>
+  <member type="relation" ref="7144131" role="subarea"/>
+  <member type="relation" ref="7144130" role="subarea"/>
+  <member type="relation" ref="7138167" role="subarea"/>
+  <member type="relation" ref="7138166" role="subarea"/>
+  <member type="relation" ref="7138138" role="subarea"/>
+  <member type="relation" ref="7138137" role="subarea"/>
+  <member type="relation" ref="7138136" role="subarea"/>
+  <member type="relation" ref="7138135" role="subarea"/>
+  <member type="relation" ref="7370762" role="subarea"/>
+  <member type="relation" ref="7370763" role="subarea"/>
+  <member type="relation" ref="7370761" role="subarea"/>
+  <member type="relation" ref="7370760" role="subarea"/>
+  <member type="relation" ref="7346818" role="subarea"/>
+  <member type="relation" ref="7364739" role="subarea"/>
+  <member type="relation" ref="7364738" role="subarea"/>
+  <member type="relation" ref="7351897" role="subarea"/>
+  <member type="relation" ref="7346817" role="subarea"/>
+  <member type="relation" ref="7342510" role="subarea"/>
+  <member type="relation" ref="7342511" role="subarea"/>
+  <member type="relation" ref="7342569" role="subarea"/>
+  <member type="relation" ref="7343271" role="subarea"/>
+  <member type="relation" ref="7343272" role="subarea"/>
+  <member type="relation" ref="7343273" role="subarea"/>
+  <member type="relation" ref="7342568" role="subarea"/>
+  <member type="relation" ref="7342567" role="subarea"/>
+  <member type="relation" ref="7343270" role="subarea"/>
+  <member type="relation" ref="7342307" role="subarea"/>
+  <member type="relation" ref="8427050" role="subarea"/>
+  <member type="relation" ref="7342566" role="subarea"/>
+  <member type="relation" ref="7342306" role="subarea"/>
+  <member type="relation" ref="7342308" role="subarea"/>
+  <tag k="abbr_name" v="Thuduc"/>
+  <tag k="admin_level" v="6"/>
+  <tag k="alt_name" v="Thành phố Thủ Đức"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="description" v="Chiều 9/12/2020, Ủy ban Thường vụ Quốc hội thông qua nghị quyết thành lập thành phố Thủ Đức thuộc TP.HCM với tỷ lệ đồng ý 100%. Nghị quyết 1111/NQ-UBTVQH14 của UBTVQH có hiệu lực thi hành từ 01/01/2021; theo đó thành lập Thành phố Thủ Đức trên cơ sở nhập"/>
+  <tag k="name" v="Thành phố Thủ Đức"/>
+  <tag k="name:en" v="Thu Duc City"/>
+  <tag k="name:fr" v="Ville de Thu Duc"/>
+  <tag k="name:id" v="Kota Thu Duc"/>
+  <tag k="name:ru" v="Чт дык"/>
+  <tag k="name:vi" v="Thành phố Thủ Đức"/>
+  <tag k="name:zh" v="守德市"/>
+  <tag k="place" v="city"/>
+  <tag k="start_date" v="2020-01-01"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q104050371"/>
+  <tag k="wikipedia" v="vi:Thủ Đức"/>
+ </relation>
+</osm>

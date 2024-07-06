@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-08-20 16:55:50 by Eclipse SUMO netedit Version 1.18.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/neteditConfiguration.xsd">
+
+    <input>
+        <sumocfg-file value="D:\VS CODE\Sumo\vande.sumocfg"/>
+        <additional-files value=""/>
+        <route-files value="D:\VS CODE\Sumo\ngatu6.rou.xml"/>
+        <sumo-net-file value="D:\VS CODE\Sumo\NgaTu1.net"/>
+    </input>
+
+    <output>
+        <output-file value="D:\VS CODE\Sumo\NgaTu1.net"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="0"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.50"/>
+        <rectangular-lane-cut value="0"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="0"/>
+    </pedestrian>
+
+</configuration>
+-->
+
+<net version="1.16" junctionCornerDetail="5" limitTurnSpeed="5.50" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/net_file.xsd">
+
+    <location netOffset="0.00,0.00" convBoundary="0.00,-100.00,300.00,200.00" origBoundary="-10000000000.00,-10000000000.00,10000000000.00,10000000000.00" projParameter="!"/>
+
+    <edge id=":GiaoLo_0" function="internal">
+        <lane id=":GiaoLo_0_0" index="0" speed="6.51" length="9.03" shape="145.20,60.40 144.85,57.95 143.80,56.20 142.05,55.15 139.60,54.80"/>
+    </edge>
+    <edge id=":GiaoLo_1" function="internal">
+        <lane id=":GiaoLo_1_0" index="0" speed="13.89" length="20.80" shape="145.20,60.40 145.20,39.60"/>
+        <lane id=":GiaoLo_1_1" index="1" speed="13.89" length="20.80" shape="148.40,60.40 148.40,39.60"/>
+    </edge>
+    <edge id=":GiaoLo_3" function="internal">
+        <lane id=":GiaoLo_3_0" index="0" speed="9.26" length="5.01" shape="148.40,60.40 149.11,55.44"/>
+    </edge>
+    <edge id=":GiaoLo_16" function="internal">
+        <lane id=":GiaoLo_16_0" index="0" speed="9.26" length="14.34" shape="149.11,55.44 149.15,55.15 151.40,51.40 155.15,49.15 160.40,48.40"/>
+    </edge>
+    <edge id=":GiaoLo_4" function="internal">
+        <lane id=":GiaoLo_4_0" index="0" speed="6.51" length="9.03" shape="160.40,54.80 157.95,55.15 156.20,56.20 155.15,57.95 154.80,60.40"/>
+    </edge>
+    <edge id=":GiaoLo_5" function="internal">
+        <lane id=":GiaoLo_5_0" index="0" speed="13.89" length="20.80" shape="160.40,54.80 139.60,54.80"/>
+        <lane id=":GiaoLo_5_1" index="1" speed="13.89" length="20.80" shape="160.40,51.60 139.60,51.60"/>
+    </edge>
+    <edge id=":GiaoLo_7" function="internal">
+        <lane id=":GiaoLo_7_0" index="0" speed="9.26" length="5.01" shape="160.40,51.60 155.44,50.89"/>
+    </edge>
+    <edge id=":GiaoLo_17" function="internal">
+        <lane id=":GiaoLo_17_0" index="0" speed="9.26" length="14.34" shape="155.44,50.89 155.15,50.85 151.40,48.60 149.15,44.85 148.40,39.60"/>
+    </edge>
+    <edge id=":GiaoLo_8" function="internal">
+        <lane id=":GiaoLo_8_0" index="0" speed="6.51" length="9.03" shape="154.80,39.60 155.15,42.05 156.20,43.80 157.95,44.85 160.40,45.20"/>
+    </edge>
+    <edge id=":GiaoLo_9" function="internal">
+        <lane id=":GiaoLo_9_0" index="0" speed="13.89" length="20.80" shape="154.80,39.60 154.80,60.40"/>
+        <lane id=":GiaoLo_9_1" index="1" speed="13.89" length="20.80" shape="151.60,39.60 151.60,60.40"/>
+    </edge>
+    <edge id=":GiaoLo_11" function="internal">
+        <lane id=":GiaoLo_11_0" index="0" speed="9.26" length="5.01" shape="151.60,39.60 150.89,44.56"/>
+    </edge>
+    <edge id=":GiaoLo_18" function="internal">
+        <lane id=":GiaoLo_18_0" index="0" speed="9.26" length="14.34" shape="150.89,44.56 150.85,44.85 148.60,48.60 144.85,50.85 139.60,51.60"/>
+    </edge>
+    <edge id=":GiaoLo_12" function="internal">
+        <lane id=":GiaoLo_12_0" index="0" speed="6.51" length="9.03" shape="139.60,45.20 142.05,44.85 143.80,43.80 144.85,42.05 145.20,39.60"/>
+    </edge>
+    <edge id=":GiaoLo_13" function="internal">
+        <lane id=":GiaoLo_13_0" index="0" speed="13.89" length="20.80" shape="139.60,45.20 160.40,45.20"/>
+        <lane id=":GiaoLo_13_1" index="1" speed="13.89" length="20.80" shape="139.60,48.40 160.40,48.40"/>
+    </edge>
+    <edge id=":GiaoLo_15" function="internal">
+        <lane id=":GiaoLo_15_0" index="0" speed="9.26" length="5.01" shape="139.60,48.40 144.56,49.11"/>
+    </edge>
+    <edge id=":GiaoLo_19" function="internal">
+        <lane id=":GiaoLo_19_0" index="0" speed="9.26" length="14.34" shape="144.56,49.11 144.85,49.15 148.60,51.40 150.85,55.15 151.60,60.40"/>
+    </edge>
+
+    <edge id="GiaoLod1" from="GiaoLo" to="d1" priority="-1">
+        <lane id="GiaoLod1_0" index="0" speed="13.89" length="139.60" shape="139.60,54.80 0.00,54.80"/>
+        <lane id="GiaoLod1_1" index="1" speed="13.89" length="139.60" shape="139.60,51.60 0.00,51.60"/>
+    </edge>
+    <edge id="GiaoLod2" from="GiaoLo" to="d2" priority="-1">
+        <lane id="GiaoLod2_0" index="0" speed="13.89" length="139.60" shape="154.80,60.40 154.80,200.00"/>
+        <lane id="GiaoLod2_1" index="1" speed="13.89" length="139.60" shape="151.60,60.40 151.60,200.00"/>
+    </edge>
+    <edge id="GiaoLod3" from="GiaoLo" to="d3" priority="-1">
+        <lane id="GiaoLod3_0" index="0" speed="13.89" length="139.60" shape="145.20,39.60 145.20,-100.00"/>
+        <lane id="GiaoLod3_1" index="1" speed="13.89" length="139.60" shape="148.40,39.60 148.40,-100.00"/>
+    </edge>
+    <edge id="GiaoLod4" from="GiaoLo" to="d4" priority="-1">
+        <lane id="GiaoLod4_0" index="0" speed="13.89" length="139.60" shape="160.40,45.20 300.00,45.20"/>
+        <lane id="GiaoLod4_1" index="1" speed="13.89" length="139.60" shape="160.40,48.40 300.00,48.40"/>
+    </edge>
+    <edge id="d1GiaoLo" from="d1" to="GiaoLo" priority="-1">
+        <lane id="d1GiaoLo_0" index="0" speed="13.89" length="139.60" shape="0.00,45.20 139.60,45.20"/>
+        <lane id="d1GiaoLo_1" index="1" speed="13.89" length="139.60" shape="0.00,48.40 139.60,48.40"/>
+    </edge>
+    <edge id="d2GiaoLo" from="d2" to="GiaoLo" priority="-1">
+        <lane id="d2GiaoLo_0" index="0" speed="13.89" length="139.60" shape="145.20,200.00 145.20,60.40"/>
+        <lane id="d2GiaoLo_1" index="1" speed="13.89" length="139.60" shape="148.40,200.00 148.40,60.40"/>
+    </edge>
+    <edge id="d3GiaoLo" from="d3" to="GiaoLo" priority="-1">
+        <lane id="d3GiaoLo_0" index="0" speed="13.89" length="139.60" shape="154.80,-100.00 154.80,39.60"/>
+        <lane id="d3GiaoLo_1" index="1" speed="13.89" length="139.60" shape="151.60,-100.00 151.60,39.60"/>
+    </edge>
+    <edge id="d4GiaoLo" from="d4" to="GiaoLo" priority="-1">
+        <lane id="d4GiaoLo_0" index="0" speed="13.89" length="139.60" shape="300.00,54.80 160.40,54.80"/>
+        <lane id="d4GiaoLo_1" index="1" speed="13.89" length="139.60" shape="300.00,51.60 160.40,51.60"/>
+    </edge>
+
+    <tlLogic id="J11" type="static" programID="0" offset="0">
+        <phase duration="42"  state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3"  state="yyyyrrrryyyyrrrr"/>
+        <phase duration="42" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3"  state="rrrryyyyrrrryyyy"/>
+    </tlLogic>
+
+    <junction id="GiaoLo" type="traffic_light" x="150.00" y="50.00" incLanes="d2GiaoLo_0 d2GiaoLo_1 d4GiaoLo_0 d4GiaoLo_1 d3GiaoLo_0 d3GiaoLo_1 d1GiaoLo_0 d1GiaoLo_1" intLanes=":GiaoLo_0_0 :GiaoLo_1_0 :GiaoLo_1_1 :GiaoLo_16_0 :GiaoLo_4_0 :GiaoLo_5_0 :GiaoLo_5_1 :GiaoLo_17_0 :GiaoLo_8_0 :GiaoLo_9_0 :GiaoLo_9_1 :GiaoLo_18_0 :GiaoLo_12_0 :GiaoLo_13_0 :GiaoLo_13_1 :GiaoLo_19_0" shape="143.60,60.40 156.40,60.40 156.84,58.18 157.40,57.40 158.18,56.84 159.18,56.51 160.40,56.40 160.40,43.60 158.18,43.16 157.40,42.60 156.84,41.82 156.51,40.82 156.40,39.60 143.60,39.60 143.16,41.82 142.60,42.60 141.82,43.16 140.82,43.49 139.60,43.60 139.60,56.40 141.82,56.84 142.60,57.40 143.16,58.18 143.49,59.18">
+        <request index="0"  response="0000000000000000" foes="0000000001100000" cont="0"/>
+        <request index="1"  response="1000000010000000" foes="1111100011100000" cont="0"/>
+        <request index="2"  response="1000000010000000" foes="1111100011100000" cont="0"/>
+        <request index="3"  response="1000011010000000" foes="1110011011100000" cont="1"/>
+        <request index="4"  response="0000011000000000" foes="0000011000000000" cont="0"/>
+        <request index="5"  response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="6"  response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="7"  response="0110111000001110" foes="0110111000001110" cont="1"/>
+        <request index="8"  response="0000000000000000" foes="0110000000000000" cont="0"/>
+        <request index="9"  response="1000000010000000" foes="1110000011111000" cont="0"/>
+        <request index="10" response="1000000010000000" foes="1110000011111000" cont="0"/>
+        <request index="11" response="1000000010000110" foes="1110000011100110" cont="1"/>
+        <request index="12" response="0000000000000110" foes="0000000000000110" cont="0"/>
+        <request index="13" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="14" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="15" response="0000111001101110" foes="0000111001101110" cont="1"/>
+    </junction>
+    <junction id="d1" type="dead_end" x="0.00" y="50.00" incLanes="GiaoLod1_0 GiaoLod1_1" intLanes="" shape="0.00,50.00 0.00,56.40 0.00,50.00"/>
+    <junction id="d2" type="dead_end" x="150.00" y="200.00" incLanes="GiaoLod2_0 GiaoLod2_1" intLanes="" shape="150.00,200.00 156.40,200.00 150.00,200.00"/>
+    <junction id="d3" type="dead_end" x="150.00" y="-100.00" incLanes="GiaoLod3_0 GiaoLod3_1" intLanes="" shape="150.00,-100.00 143.60,-100.00 150.00,-100.00"/>
+    <junction id="d4" type="dead_end" x="300.00" y="50.00" incLanes="GiaoLod4_0 GiaoLod4_1" intLanes="" shape="300.00,50.00 300.00,43.60 300.00,50.00"/>
+
+    <junction id=":GiaoLo_16_0" type="internal" x="149.11" y="55.44" incLanes=":GiaoLo_3_0 d3GiaoLo_0 d3GiaoLo_1" intLanes=":GiaoLo_5_0 :GiaoLo_5_1 :GiaoLo_7_0 :GiaoLo_8_0 :GiaoLo_9_0 :GiaoLo_9_1 :GiaoLo_13_0 :GiaoLo_13_1 :GiaoLo_15_0"/>
+    <junction id=":GiaoLo_17_0" type="internal" x="155.44" y="50.89" incLanes=":GiaoLo_7_0 d1GiaoLo_0 d1GiaoLo_1" intLanes=":GiaoLo_1_0 :GiaoLo_1_1 :GiaoLo_3_0 :GiaoLo_9_0 :GiaoLo_9_1 :GiaoLo_11_0 :GiaoLo_12_0 :GiaoLo_13_0 :GiaoLo_13_1"/>
+    <junction id=":GiaoLo_18_0" type="internal" x="150.89" y="44.56" incLanes=":GiaoLo_11_0 d2GiaoLo_0 d2GiaoLo_1" intLanes=":GiaoLo_0_0 :GiaoLo_1_0 :GiaoLo_1_1 :GiaoLo_5_0 :GiaoLo_5_1 :GiaoLo_7_0 :GiaoLo_13_0 :GiaoLo_13_1 :GiaoLo_15_0"/>
+    <junction id=":GiaoLo_19_0" type="internal" x="144.56" y="49.11" incLanes=":GiaoLo_15_0 d4GiaoLo_0 d4GiaoLo_1" intLanes=":GiaoLo_1_0 :GiaoLo_1_1 :GiaoLo_3_0 :GiaoLo_4_0 :GiaoLo_5_0 :GiaoLo_5_1 :GiaoLo_9_0 :GiaoLo_9_1 :GiaoLo_11_0"/>
+
+    <connection from="d1GiaoLo" to="GiaoLod3" fromLane="0" toLane="0" via=":GiaoLo_12_0" tl="J11" linkIndex="8" dir="r" state="o"/>
+    <connection from="d1GiaoLo" to="GiaoLod4" fromLane="0" toLane="0" via=":GiaoLo_13_0" tl="J11" linkIndex="9" dir="s" state="o"/>
+    <connection from="d1GiaoLo" to="GiaoLod4" fromLane="1" toLane="1" via=":GiaoLo_13_1" tl="J11" linkIndex="10" dir="s" state="o"/>
+    <connection from="d1GiaoLo" to="GiaoLod2" fromLane="1" toLane="1" via=":GiaoLo_15_0" tl="J11" linkIndex="11" dir="l" state="o"/>
+    <connection from="d2GiaoLo" to="GiaoLod1" fromLane="0" toLane="0" via=":GiaoLo_0_0" tl="J11" linkIndex="12" dir="r" state="O"/>
+    <connection from="d2GiaoLo" to="GiaoLod3" fromLane="0" toLane="0" via=":GiaoLo_1_0" tl="J11" linkIndex="13" dir="s" state="O"/>
+    <connection from="d2GiaoLo" to="GiaoLod3" fromLane="1" toLane="1" via=":GiaoLo_1_1" tl="J11" linkIndex="14" dir="s" state="O"/>
+    <connection from="d2GiaoLo" to="GiaoLod4" fromLane="1" toLane="1" via=":GiaoLo_3_0" tl="J11" linkIndex="15" dir="l" state="o"/>
+    <connection from="d3GiaoLo" to="GiaoLod4" fromLane="0" toLane="0" via=":GiaoLo_8_0" tl="J11" linkIndex="4" dir="r" state="O"/>
+    <connection from="d3GiaoLo" to="GiaoLod2" fromLane="0" toLane="0" via=":GiaoLo_9_0" tl="J11" linkIndex="5" dir="s" state="O"/>
+    <connection from="d3GiaoLo" to="GiaoLod2" fromLane="1" toLane="1" via=":GiaoLo_9_1" tl="J11" linkIndex="6" dir="s" state="O"/>
+    <connection from="d3GiaoLo" to="GiaoLod1" fromLane="1" toLane="1" via=":GiaoLo_11_0" tl="J11" linkIndex="7" dir="l" state="o"/>
+    <connection from="d4GiaoLo" to="GiaoLod2" fromLane="0" toLane="0" via=":GiaoLo_4_0" tl="J11" linkIndex="0" dir="r" state="o"/>
+    <connection from="d4GiaoLo" to="GiaoLod1" fromLane="0" toLane="0" via=":GiaoLo_5_0" tl="J11" linkIndex="1" dir="s" state="o"/>
+    <connection from="d4GiaoLo" to="GiaoLod1" fromLane="1" toLane="1" via=":GiaoLo_5_1" tl="J11" linkIndex="2" dir="s" state="o"/>
+    <connection from="d4GiaoLo" to="GiaoLod3" fromLane="1" toLane="1" via=":GiaoLo_7_0" tl="J11" linkIndex="3" dir="l" state="o"/>
+
+    <connection from=":GiaoLo_0" to="GiaoLod1" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":GiaoLo_1" to="GiaoLod3" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":GiaoLo_1" to="GiaoLod3" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":GiaoLo_3" to="GiaoLod4" fromLane="0" toLane="1" via=":GiaoLo_16_0" dir="l" state="m"/>
+    <connection from=":GiaoLo_16" to="GiaoLod4" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":GiaoLo_4" to="GiaoLod2" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":GiaoLo_5" to="GiaoLod1" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":GiaoLo_5" to="GiaoLod1" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":GiaoLo_7" to="GiaoLod3" fromLane="0" toLane="1" via=":GiaoLo_17_0" dir="l" state="m"/>
+    <connection from=":GiaoLo_17" to="GiaoLod3" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":GiaoLo_8" to="GiaoLod4" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":GiaoLo_9" to="GiaoLod2" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":GiaoLo_9" to="GiaoLod2" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":GiaoLo_11" to="GiaoLod1" fromLane="0" toLane="1" via=":GiaoLo_18_0" dir="l" state="m"/>
+    <connection from=":GiaoLo_18" to="GiaoLod1" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":GiaoLo_12" to="GiaoLod3" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":GiaoLo_13" to="GiaoLod4" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":GiaoLo_13" to="GiaoLod4" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":GiaoLo_15" to="GiaoLod2" fromLane="0" toLane="1" via=":GiaoLo_19_0" dir="l" state="m"/>
+    <connection from=":GiaoLo_19" to="GiaoLod2" fromLane="0" toLane="1" dir="l" state="M"/>
+
+</net>

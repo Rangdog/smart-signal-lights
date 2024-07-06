@@ -1,0 +1,11 @@
+<configuration>
+    <input>
+        <net-file value="NgaTu1.net"/>
+        <route-files value="generated_vehicles.xml"/>
+    </input>
+    <max-num-vehicles value="800"/>
+    <time>
+        <begin value = "0"/>
+        <end value = "20000"/>
+    </time>
+</configuration>
